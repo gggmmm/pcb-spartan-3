@@ -1,0 +1,2154 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L power:GND #PWR0101
+U 1 1 60973A45
+P 10500 6800
+F 0 "#PWR0101" H 10500 6550 50  0001 C CNN
+F 1 "GND" V 10505 6672 50  0000 R CNN
+F 2 "" H 10500 6800 50  0001 C CNN
+F 3 "" H 10500 6800 50  0001 C CNN
+	1    10500 6800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 6097732E
+P 9400 9000
+F 0 "#PWR0103" H 9400 8750 50  0001 C CNN
+F 1 "GND" V 9405 8827 50  0000 C CNN
+F 2 "" H 9400 9000 50  0001 C CNN
+F 3 "" H 9400 9000 50  0001 C CNN
+	1    9400 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 60979226
+P 7200 9000
+F 0 "#PWR0105" H 7200 8750 50  0001 C CNN
+F 1 "GND" V 7205 8827 50  0000 C CNN
+F 2 "" H 7200 9000 50  0001 C CNN
+F 3 "" H 7200 9000 50  0001 C CNN
+	1    7200 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0106
+U 1 1 609799B9
+P 6400 6900
+F 0 "#PWR0106" H 6400 6650 50  0001 C CNN
+F 1 "GND" V 6405 6772 50  0000 R CNN
+F 2 "" H 6400 6900 50  0001 C CNN
+F 3 "" H 6400 6900 50  0001 C CNN
+	1    6400 6900
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0107
+U 1 1 6097A7C7
+P 6400 6200
+F 0 "#PWR0107" H 6400 5950 50  0001 C CNN
+F 1 "GND" V 6405 6072 50  0000 R CNN
+F 2 "" H 6400 6200 50  0001 C CNN
+F 3 "" H 6400 6200 50  0001 C CNN
+	1    6400 6200
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0108
+U 1 1 6097B28D
+P 6400 5600
+F 0 "#PWR0108" H 6400 5350 50  0001 C CNN
+F 1 "GND" V 6405 5472 50  0000 R CNN
+F 2 "" H 6400 5600 50  0001 C CNN
+F 3 "" H 6400 5600 50  0001 C CNN
+	1    6400 5600
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0109
+U 1 1 6097BA73
+P 6400 4900
+F 0 "#PWR0109" H 6400 4650 50  0001 C CNN
+F 1 "GND" V 6405 4772 50  0000 R CNN
+F 2 "" H 6400 4900 50  0001 C CNN
+F 3 "" H 6400 4900 50  0001 C CNN
+	1    6400 4900
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0110
+U 1 1 6097C4B0
+P 7200 2900
+F 0 "#PWR0110" H 7200 2650 50  0001 C CNN
+F 1 "GND" V 7205 2727 50  0000 C CNN
+F 2 "" H 7200 2900 50  0001 C CNN
+F 3 "" H 7200 2900 50  0001 C CNN
+	1    7200 2900
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0111
+U 1 1 6097DB9C
+P 7500 2900
+F 0 "#PWR0111" H 7500 2650 50  0001 C CNN
+F 1 "GND" V 7505 2727 50  0000 C CNN
+F 2 "" H 7500 2900 50  0001 C CNN
+F 3 "" H 7500 2900 50  0001 C CNN
+	1    7500 2900
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0112
+U 1 1 6097E1C8
+P 9400 2900
+F 0 "#PWR0112" H 9400 2650 50  0001 C CNN
+F 1 "GND" V 9405 2727 50  0000 C CNN
+F 2 "" H 9400 2900 50  0001 C CNN
+F 3 "" H 9400 2900 50  0001 C CNN
+	1    9400 2900
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0113
+U 1 1 6097F822
+P 9700 2900
+F 0 "#PWR0113" H 9700 2650 50  0001 C CNN
+F 1 "GND" V 9705 2727 50  0000 C CNN
+F 2 "" H 9700 2900 50  0001 C CNN
+F 3 "" H 9700 2900 50  0001 C CNN
+	1    9700 2900
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0114
+U 1 1 60980130
+P 10500 6100
+F 0 "#PWR0114" H 10500 5850 50  0001 C CNN
+F 1 "GND" V 10505 5972 50  0000 R CNN
+F 2 "" H 10500 6100 50  0001 C CNN
+F 3 "" H 10500 6100 50  0001 C CNN
+	1    10500 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0115
+U 1 1 6098109D
+P 10500 5500
+F 0 "#PWR0115" H 10500 5250 50  0001 C CNN
+F 1 "GND" V 10505 5372 50  0000 R CNN
+F 2 "" H 10500 5500 50  0001 C CNN
+F 3 "" H 10500 5500 50  0001 C CNN
+	1    10500 5500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0116
+U 1 1 60981949
+P 10550 4800
+F 0 "#PWR0116" H 10550 4550 50  0001 C CNN
+F 1 "GND" V 10555 4672 50  0000 R CNN
+F 2 "" H 10550 4800 50  0001 C CNN
+F 3 "" H 10550 4800 50  0001 C CNN
+	1    10550 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SamacSys_Parts:55917-1410 J3
+U 1 1 609B97B5
+P 2760 7920
+F 0 "J3" H 3210 7055 50  0000 C CNN
+F 1 "55917-1410" H 3210 7146 50  0000 C CNN
+F 2 "559171410" H 3510 8020 50  0001 L CNN
+F 3 "http://www.molex.com/webdocs/datasheets/pdf/en-us//0559171410_PCB_HEADERS.pdf" H 3510 7920 50  0001 L CNN
+F 4 "Molex MICROCLASP Series, Series Number 55917, 2mm Pitch 14 Way 2 Row Straight PCB Header, Solder Termination, 3A" H 3510 7820 50  0001 L CNN "Description"
+F 5 "9.75" H 3510 7720 50  0001 L CNN "Height"
+F 6 "538-55917-1410" H 3510 7620 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Molex/55917-1410?qs=Gpk32%252Bt3bzgMsYaQMMiuag%3D%3D" H 3510 7520 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Molex" H 3510 7420 50  0001 L CNN "Manufacturer_Name"
+F 9 "55917-1410" H 3510 7320 50  0001 L CNN "Manufacturer_Part_Number"
+	1    2760 7920
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1860 7320 1710 7320
+Wire Wire Line
+	1710 7320 1710 7420
+Wire Wire Line
+	1860 7920 1710 7920
+Connection ~ 1710 7920
+Wire Wire Line
+	1710 7920 1710 8120
+Wire Wire Line
+	1860 7820 1710 7820
+Connection ~ 1710 7820
+Wire Wire Line
+	1710 7820 1710 7920
+Wire Wire Line
+	1860 7720 1710 7720
+Connection ~ 1710 7720
+Wire Wire Line
+	1710 7720 1710 7820
+Wire Wire Line
+	1860 7620 1710 7620
+Connection ~ 1710 7620
+Wire Wire Line
+	1710 7620 1710 7720
+Wire Wire Line
+	1860 7520 1710 7520
+Connection ~ 1710 7520
+Wire Wire Line
+	1710 7520 1710 7620
+Wire Wire Line
+	1860 7420 1710 7420
+Connection ~ 1710 7420
+Wire Wire Line
+	1710 7420 1710 7520
+NoConn ~ 2760 7320
+NoConn ~ 2760 7420
+$Comp
+L power:GND #PWR0117
+U 1 1 609D1598
+P 1710 8120
+F 0 "#PWR0117" H 1710 7870 50  0001 C CNN
+F 1 "GND" H 1715 7947 50  0000 C CNN
+F 2 "" H 1710 8120 50  0001 C CNN
+F 3 "" H 1710 8120 50  0001 C CNN
+	1    1710 8120
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+2V5 #PWR0118
+U 1 1 609D239A
+P 7700 2900
+F 0 "#PWR0118" H 7700 2750 50  0001 C CNN
+F 1 "+2V5" V 7700 3100 50  0000 C CNN
+F 2 "" H 7700 2900 50  0001 C CNN
+F 3 "" H 7700 2900 50  0001 C CNN
+	1    7700 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+2V5 #PWR0119
+U 1 1 609D2F08
+P 9100 2900
+F 0 "#PWR0119" H 9100 2750 50  0001 C CNN
+F 1 "+2V5" V 9100 3100 50  0000 C CNN
+F 2 "" H 9100 2900 50  0001 C CNN
+F 3 "" H 9100 2900 50  0001 C CNN
+	1    9100 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+1V2 #PWR0120
+U 1 1 609D4081
+P 7800 2900
+F 0 "#PWR0120" H 7800 2750 50  0001 C CNN
+F 1 "+1V2" V 7800 3100 50  0000 C CNN
+F 2 "" H 7800 2900 50  0001 C CNN
+F 3 "" H 7800 2900 50  0001 C CNN
+	1    7800 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+1V2 #PWR0121
+U 1 1 609D4D1D
+P 9000 2900
+F 0 "#PWR0121" H 9000 2750 50  0001 C CNN
+F 1 "+1V2" V 9000 3100 50  0000 C CNN
+F 2 "" H 9000 2900 50  0001 C CNN
+F 3 "" H 9000 2900 50  0001 C CNN
+	1    9000 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR0122
+U 1 1 609D6217
+P 8500 2900
+F 0 "#PWR0122" H 8500 2750 50  0001 C CNN
+F 1 "+3V3" V 8500 3100 50  0000 C CNN
+F 2 "" H 8500 2900 50  0001 C CNN
+F 3 "" H 8500 2900 50  0001 C CNN
+	1    8500 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR0123
+U 1 1 609D8415
+P 9600 2900
+F 0 "#PWR0123" H 9600 2750 50  0001 C CNN
+F 1 "+3V3" V 9600 3100 50  0000 C CNN
+F 2 "" H 9600 2900 50  0001 C CNN
+F 3 "" H 9600 2900 50  0001 C CNN
+	1    9600 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR0124
+U 1 1 609D9BB5
+P 7300 2900
+F 0 "#PWR0124" H 7300 2750 50  0001 C CNN
+F 1 "+3V3" V 7300 3100 50  0000 C CNN
+F 2 "" H 7300 2900 50  0001 C CNN
+F 3 "" H 7300 2900 50  0001 C CNN
+	1    7300 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR0125
+U 1 1 609DC509
+P 10500 4300
+F 0 "#PWR0125" H 10500 4150 50  0001 C CNN
+F 1 "+3V3" V 10515 4428 50  0000 L CNN
+F 2 "" H 10500 4300 50  0001 C CNN
+F 3 "" H 10500 4300 50  0001 C CNN
+	1    10500 4300
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+3V3 #PWR0126
+U 1 1 609DDC50
+P 10500 5800
+F 0 "#PWR0126" H 10500 5650 50  0001 C CNN
+F 1 "+3V3" V 10515 5928 50  0000 L CNN
+F 2 "" H 10500 5800 50  0001 C CNN
+F 3 "" H 10500 5800 50  0001 C CNN
+	1    10500 5800
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+3V3 #PWR0127
+U 1 1 609DEF24
+P 10500 7400
+F 0 "#PWR0127" H 10500 7250 50  0001 C CNN
+F 1 "+3V3" V 10515 7528 50  0000 L CNN
+F 2 "" H 10500 7400 50  0001 C CNN
+F 3 "" H 10500 7400 50  0001 C CNN
+	1    10500 7400
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+3V3 #PWR0128
+U 1 1 609E0649
+P 9600 9000
+F 0 "#PWR0128" H 9600 8850 50  0001 C CNN
+F 1 "+3V3" V 9600 9200 50  0000 C CNN
+F 2 "" H 9600 9000 50  0001 C CNN
+F 3 "" H 9600 9000 50  0001 C CNN
+	1    9600 9000
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+3V3 #PWR0129
+U 1 1 609E2534
+P 8400 9020
+F 0 "#PWR0129" H 8400 8870 50  0001 C CNN
+F 1 "+3V3" V 8400 9220 50  0000 C CNN
+F 2 "" H 8400 9020 50  0001 C CNN
+F 3 "" H 8400 9020 50  0001 C CNN
+	1    8400 9020
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+3V3 #PWR0130
+U 1 1 609E34CC
+P 7300 9000
+F 0 "#PWR0130" H 7300 8850 50  0001 C CNN
+F 1 "+3V3" V 7300 9200 50  0000 C CNN
+F 2 "" H 7300 9000 50  0001 C CNN
+F 3 "" H 7300 9000 50  0001 C CNN
+	1    7300 9000
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+2V5 #PWR0131
+U 1 1 609E4164
+P 7800 9100
+F 0 "#PWR0131" H 7800 8950 50  0001 C CNN
+F 1 "+2V5" V 7800 9300 50  0000 C CNN
+F 2 "" H 7800 9100 50  0001 C CNN
+F 3 "" H 7800 9100 50  0001 C CNN
+	1    7800 9100
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+2V5 #PWR0132
+U 1 1 609E559B
+P 9200 9000
+F 0 "#PWR0132" H 9200 8850 50  0001 C CNN
+F 1 "+2V5" V 9200 9200 50  0000 C CNN
+F 2 "" H 9200 9000 50  0001 C CNN
+F 3 "" H 9200 9000 50  0001 C CNN
+	1    9200 9000
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+1V2 #PWR0133
+U 1 1 609E6626
+P 9100 9000
+F 0 "#PWR0133" H 9100 8850 50  0001 C CNN
+F 1 "+1V2" V 9100 9200 50  0000 C CNN
+F 2 "" H 9100 9000 50  0001 C CNN
+F 3 "" H 9100 9000 50  0001 C CNN
+	1    9100 9000
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+1V2 #PWR0134
+U 1 1 609E88DB
+P 7900 9000
+F 0 "#PWR0134" H 7900 8850 50  0001 C CNN
+F 1 "+1V2" V 7900 9200 50  0000 C CNN
+F 2 "" H 7900 9000 50  0001 C CNN
+F 3 "" H 7900 9000 50  0001 C CNN
+	1    7900 9000
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+3V3 #PWR0135
+U 1 1 609EB061
+P 6400 7400
+F 0 "#PWR0135" H 6400 7250 50  0001 C CNN
+F 1 "+3V3" V 6400 7600 50  0000 C CNN
+F 2 "" H 6400 7400 50  0001 C CNN
+F 3 "" H 6400 7400 50  0001 C CNN
+	1    6400 7400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+3V3 #PWR0136
+U 1 1 609EC482
+P 6400 4300
+F 0 "#PWR0136" H 6400 4150 50  0001 C CNN
+F 1 "+3V3" V 6400 4500 50  0000 C CNN
+F 2 "" H 6400 4300 50  0001 C CNN
+F 3 "" H 6400 4300 50  0001 C CNN
+	1    6400 4300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+3V3 #PWR0137
+U 1 1 609EDDF4
+P 6400 5900
+F 0 "#PWR0137" H 6400 5750 50  0001 C CNN
+F 1 "+3V3" V 6400 6100 50  0000 C CNN
+F 2 "" H 6400 5900 50  0001 C CNN
+F 3 "" H 6400 5900 50  0001 C CNN
+	1    6400 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SamacSys_Parts:MIC5504-3.3YM5-TR IC2
+U 1 1 60A96210
+P 4185 925
+F 0 "IC2" H 4735 1190 50  0000 C CNN
+F 1 "MIC5504-3.3YM5-TR" H 4735 1099 50  0000 C CNN
+F 2 "SOT95P280X145-5N" H 5135 1025 50  0001 L CNN
+F 3 "https://componentsearchengine.com/Datasheets/2/MIC5504-3.3YM5-TR.pdf" H 5135 925 50  0001 L CNN
+F 4 "MICROCHIP - MIC5504-3.3YM5-TR - LDO VOLT REG, 0.3A, 3.3V, SOT-23-5" H 5135 825 50  0001 L CNN "Description"
+F 5 "1.45" H 5135 725 50  0001 L CNN "Height"
+F 6 "998-MIC5504-3.3YM5TR" H 5135 625 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Micrel/MIC5504-33YM5-TR?qs=U6T8BxXiZAUmVQ5Zs217qQ%3D%3D" H 5135 525 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Microchip" H 5135 425 50  0001 L CNN "Manufacturer_Name"
+F 9 "MIC5504-3.3YM5-TR" H 5135 325 50  0001 L CNN "Manufacturer_Part_Number"
+	1    4185 925 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4185 925  3835 925 
+$Comp
+L power:GND #PWR0147
+U 1 1 60A9AAC0
+P 4185 1025
+F 0 "#PWR0147" H 4185 775 50  0001 C CNN
+F 1 "GND" V 4190 897 50  0000 R CNN
+F 2 "" H 4185 1025 50  0001 C CNN
+F 3 "" H 4185 1025 50  0001 C CNN
+	1    4185 1025
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4185 1125 3835 1125
+Wire Wire Line
+	3835 1125 3835 925 
+Connection ~ 3835 925 
+$Comp
+L power:GND #PWR0148
+U 1 1 60AA40F3
+P 3335 1325
+F 0 "#PWR0148" H 3335 1075 50  0001 C CNN
+F 1 "GND" H 3340 1152 50  0000 C CNN
+F 2 "" H 3335 1325 50  0001 C CNN
+F 3 "" H 3335 1325 50  0001 C CNN
+	1    3335 1325
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5285 1025 5435 1025
+$Comp
+L power:GND #PWR0149
+U 1 1 60AAA096
+P 5435 1325
+F 0 "#PWR0149" H 5435 1075 50  0001 C CNN
+F 1 "GND" H 5440 1152 50  0000 C CNN
+F 2 "" H 5435 1325 50  0001 C CNN
+F 3 "" H 5435 1325 50  0001 C CNN
+	1    5435 1325
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR0150
+U 1 1 60AAA508
+P 5435 925
+F 0 "#PWR0150" H 5435 775 50  0001 C CNN
+F 1 "+3V3" H 5450 1098 50  0000 C CNN
+F 2 "" H 5435 925 50  0001 C CNN
+F 3 "" H 5435 925 50  0001 C CNN
+	1    5435 925 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3835 925  3335 925 
+$Comp
+L SamacSys_Parts:22-03-2151 J5
+U 1 1 60ABE95B
+P 11920 4985
+F 0 "J5" H 12548 4331 50  0000 L CNN
+F 1 "BANK 2/3" H 12548 4240 50  0000 L CNN
+F 2 "HDRV15W67P0X254_1X15_3785X236X1117P" H 12570 5085 50  0001 L CNN
+F 3 "https://www.molex.com/pdm_docs/sd/022032151_sd.pdf" H 12570 4985 50  0001 L CNN
+F 4 "Headers & Wire Housings 15 CKT HEADER" H 12570 4885 50  0001 L CNN "Description"
+F 5 "11.17" H 12570 4785 50  0001 L CNN "Height"
+F 6 "538-22-03-2151" H 12570 4685 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Molex/22-03-2151?qs=ekUqD6al18LyoqH74YTXzg%3D%3D" H 12570 4585 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Molex" H 12570 4485 50  0001 L CNN "Manufacturer_Name"
+F 9 "22-03-2151" H 12570 4385 50  0001 L CNN "Manufacturer_Part_Number"
+	1    11920 4985
+	1    0    0    -1  
+$EndComp
+Text GLabel 10500 4400 2    50   BiDi ~ 0
+IO_L20N_2
+Text GLabel 10500 4500 2    50   BiDi ~ 0
+IO_L20P_2
+Text GLabel 10500 4600 2    50   BiDi ~ 0
+IO_L21N_2
+Text GLabel 10500 4700 2    50   BiDi ~ 0
+IO_L21P_2
+Text GLabel 10500 4900 2    50   BiDi ~ 0
+IO_L22N_2
+Text GLabel 10500 5000 2    50   BiDi ~ 0
+IO_L22P_2
+Text GLabel 10500 5100 2    50   BiDi ~ 0
+IO_L23N_2
+Text GLabel 10500 5200 2    50   BiDi ~ 0
+IO_L23P_2
+Text GLabel 10500 5300 2    50   BiDi ~ 0
+IO_L24N_2
+Text GLabel 10500 5400 2    50   BiDi ~ 0
+IO_L24P_2
+Text GLabel 10500 5900 2    50   BiDi ~ 0
+IO_L40N_3
+Text GLabel 10500 6000 2    50   BiDi ~ 0
+IO_L40P_3
+Text GLabel 11920 5185 0    50   BiDi ~ 0
+IO_L20N_2
+Text GLabel 11920 5285 0    50   BiDi ~ 0
+IO_L20P_2
+Text GLabel 11920 5385 0    50   BiDi ~ 0
+IO_L21N_2
+Text GLabel 11920 5485 0    50   BiDi ~ 0
+IO_L21P_2
+Text GLabel 11920 5585 0    50   BiDi ~ 0
+IO_L22N_2
+Text GLabel 11920 5685 0    50   BiDi ~ 0
+IO_L22P_2
+Text GLabel 11920 5785 0    50   BiDi ~ 0
+IO_L23N_2
+Text GLabel 11920 5885 0    50   BiDi ~ 0
+IO_L23P_2
+Text GLabel 11920 5985 0    50   BiDi ~ 0
+IO_L24N_2
+Text GLabel 11920 6085 0    50   BiDi ~ 0
+IO_L24P_2
+Text GLabel 11920 6185 0    50   BiDi ~ 0
+IO_L40N_3
+Text GLabel 11920 6285 0    50   BiDi ~ 0
+IO_L40P_3
+Text GLabel 10500 6200 2    50   BiDi ~ 0
+IO_L24N_3
+Text GLabel 11920 6385 0    50   BiDi ~ 0
+IO_L24N_3
+NoConn ~ 10500 5600
+NoConn ~ 10500 5700
+NoConn ~ 10500 6300
+NoConn ~ 10500 6400
+NoConn ~ 10500 6500
+NoConn ~ 10500 6600
+NoConn ~ 10500 6700
+NoConn ~ 10500 6900
+NoConn ~ 10500 7000
+NoConn ~ 10500 7100
+NoConn ~ 10500 7600
+NoConn ~ 10500 7500
+NoConn ~ 10500 7300
+NoConn ~ 10500 7200
+Text GLabel 2760 7520 2    50   Output ~ 0
+TDI
+Text GLabel 2760 7820 2    50   Output ~ 0
+TMS
+Text GLabel 2760 7720 2    50   Output ~ 0
+TCK
+Text GLabel 2760 7620 2    50   Input ~ 0
+TDO
+$Comp
+L power:+3V3 #PWR0151
+U 1 1 60A893E4
+P 2760 7920
+F 0 "#PWR0151" H 2760 7770 50  0001 C CNN
+F 1 "+3V3" V 2760 8120 50  0000 C CNN
+F 2 "" H 2760 7920 50  0001 C CNN
+F 3 "" H 2760 7920 50  0001 C CNN
+	1    2760 7920
+	0    1    1    0   
+$EndComp
+Text GLabel 6700 2900 1    50   Input ~ 0
+TDI_TO_FPGA
+Text GLabel 10000 2900 1    50   Input ~ 0
+TMS_TO_FPGA
+Text GLabel 10100 2900 1    50   Input ~ 0
+TCK_TO_FPGA
+Text GLabel 10200 2900 1    50   Output ~ 0
+TDO_FROM_FPGA
+NoConn ~ 9000 9000
+NoConn ~ 7600 9000
+Text GLabel 6400 4500 0    50   BiDi ~ 0
+IO_L20P_7
+Text GLabel 6400 4600 0    50   BiDi ~ 0
+IO_L20N_7
+Text GLabel 6400 4700 0    50   BiDi ~ 0
+IO_L21P_7
+Text GLabel 6400 4800 0    50   BiDi ~ 0
+IO_L21N_7
+Text GLabel 6400 5100 0    50   BiDi ~ 0
+IO_L22N_7
+NoConn ~ 6400 5000
+Text GLabel 4900 5000 2    50   BiDi ~ 0
+IO_L20P_7
+Text GLabel 4900 5100 2    50   BiDi ~ 0
+IO_L20N_7
+Text GLabel 4900 5200 2    50   BiDi ~ 0
+IO_L21P_7
+Text GLabel 4900 5300 2    50   BiDi ~ 0
+IO_L21N_7
+Text GLabel 4900 5400 2    50   BiDi ~ 0
+IO_L22N_7
+NoConn ~ 6400 5200
+NoConn ~ 6400 5300
+NoConn ~ 6400 5400
+NoConn ~ 6400 5500
+NoConn ~ 6400 5700
+NoConn ~ 6400 5800
+Text GLabel 6400 6000 0    50   BiDi ~ 0
+IO_L40P_6
+Text GLabel 6400 6100 0    50   BiDi ~ 0
+IO_L40N_6
+Text GLabel 6400 6300 0    50   BiDi ~ 0
+IO_L24P_6
+Text GLabel 4900 5500 2    50   BiDi ~ 0
+IO_L40P_6
+Text GLabel 4900 5600 2    50   BiDi ~ 0
+IO_L40N_6
+Text GLabel 4900 5700 2    50   BiDi ~ 0
+IO_L24P_6
+NoConn ~ 6400 7000
+NoConn ~ 6400 7100
+NoConn ~ 6400 7200
+NoConn ~ 6400 7300
+NoConn ~ 6400 7500
+NoConn ~ 6400 7600
+NoConn ~ 6400 4100
+NoConn ~ 6400 4200
+NoConn ~ 6400 4400
+Text GLabel 6700 9000 3    50   Input ~ 0
+M1
+NoConn ~ 10000 9000
+NoConn ~ 7400 9000
+$Comp
+L power:VBUS #PWR0156
+U 1 1 60A6A7C4
+P 3250 850
+F 0 "#PWR0156" H 3250 700 50  0001 C CNN
+F 1 "VBUS" H 3250 1000 50  0000 C CNN
+F 2 "" H 3250 850 50  0001 C CNN
+F 3 "" H 3250 850 50  0001 C CNN
+	1    3250 850 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3335 925  3335 1025
+Wire Wire Line
+	5435 925  5435 1025
+Text Notes 895  4780 0    157  ~ 31
+Vbus   = 5V0\nVcco   = 3V3\nVccaux = 2V5\nVccint  = 1V2
+Wire Wire Line
+	10550 4800 10500 4800
+$Comp
+L power:GND #PWR0102
+U 1 1 60A9DB3B
+P 9700 9000
+F 0 "#PWR0102" H 9700 8750 50  0001 C CNN
+F 1 "GND" V 9705 8827 50  0000 C CNN
+F 2 "" H 9700 9000 50  0001 C CNN
+F 3 "" H 9700 9000 50  0001 C CNN
+	1    9700 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 60A9E5C9
+P 7500 9000
+F 0 "#PWR0104" H 7500 8750 50  0001 C CNN
+F 1 "GND" V 7505 8827 50  0000 C CNN
+F 2 "" H 7500 9000 50  0001 C CNN
+F 3 "" H 7500 9000 50  0001 C CNN
+	1    7500 9000
+	1    0    0    -1  
+$EndComp
+NoConn ~ 10500 4100
+$Comp
+L power:GND #PWR0157
+U 1 1 60ABB69E
+P 11920 4985
+F 0 "#PWR0157" H 11920 4735 50  0001 C CNN
+F 1 "GND" V 11925 4857 50  0000 R CNN
+F 2 "" H 11920 4985 50  0001 C CNN
+F 3 "" H 11920 4985 50  0001 C CNN
+	1    11920 4985
+	0    1    1    0   
+$EndComp
+NoConn ~ 10500 4200
+$Comp
+L power:+3V3 #PWR0158
+U 1 1 60AC352B
+P 11920 5085
+F 0 "#PWR0158" H 11920 4935 50  0001 C CNN
+F 1 "+3V3" V 11935 5213 50  0000 L CNN
+F 2 "" H 11920 5085 50  0001 C CNN
+F 3 "" H 11920 5085 50  0001 C CNN
+	1    11920 5085
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8400 9000 8400 9020
+NoConn ~ 7400 2900
+NoConn ~ 7600 2900
+NoConn ~ 9500 2900
+NoConn ~ 9800 2900
+NoConn ~ 9900 2900
+$Comp
+L power:GND #PWR0161
+U 1 1 60ADE005
+P 4900 6400
+F 0 "#PWR0161" H 4900 6150 50  0001 C CNN
+F 1 "GND" V 4905 6272 50  0000 R CNN
+F 2 "" H 4900 6400 50  0001 C CNN
+F 3 "" H 4900 6400 50  0001 C CNN
+	1    4900 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+3V3 #PWR0162
+U 1 1 60ADF532
+P 4900 6300
+F 0 "#PWR0162" H 4900 6150 50  0001 C CNN
+F 1 "+3V3" V 4900 6500 50  0000 C CNN
+F 2 "" H 4900 6300 50  0001 C CNN
+F 3 "" H 4900 6300 50  0001 C CNN
+	1    4900 6300
+	0    1    1    0   
+$EndComp
+NoConn ~ 9900 9000
+NoConn ~ 9800 9000
+$Comp
+L SamacSys_Parts:ECS-327MVATX-3-CN-TR J7
+U 1 1 60AEBA40
+P 8665 1215
+F 0 "J7" H 9415 1480 50  0000 C CNN
+F 1 "OSC 32.768 kHz" H 9415 1389 50  0000 C CNN
+F 2 "ECS327MVATX3CNTR" H 10015 1315 50  0001 L CNN
+F 3 "https://componentsearchengine.com/Datasheets/1/ECS-327MVATX-3-CN-TR.pdf" H 10015 1215 50  0001 L CNN
+F 4 "Crystals 32.768kHz 1.6-3.6V ESR -40C +85C" H 10015 1115 50  0001 L CNN "Description"
+F 5 "1.2" H 10015 1015 50  0001 L CNN "Height"
+F 6 "520-327MVATX-3-CNT" H 10015 915 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/ECS/ECS-327MVATX-3-CN-TR?qs=T3oQrply3y9VvCEDxGCK8A%3D%3D" H 10015 815 50  0001 L CNN "Mouser Price/Stock"
+F 8 "ECS" H 10015 715 50  0001 L CNN "Manufacturer_Name"
+F 9 "ECS-327MVATX-3-CN-TR" H 10015 615 50  0001 L CNN "Manufacturer_Part_Number"
+	1    8665 1215
+	1    0    0    -1  
+$EndComp
+$Comp
+L SamacSys_Parts:XLH335200.000000X Y2
+U 1 1 60AEF96B
+P 9460 10025
+F 0 "Y2" H 10010 10290 50  0000 C CNN
+F 1 "OSC 200 MHz" H 10010 10199 50  0000 C CNN
+F 2 "XLH335200000000X" H 10410 10125 50  0001 L CNN
+F 3 "" H 10410 10025 50  0001 L CNN
+F 4 "Standard Clock Oscillators 200MHz 3.3V HCMOS 50ppm" H 10410 9925 50  0001 L CNN "Description"
+F 5 "1" H 10410 9825 50  0001 L CNN "Height"
+F 6 "972-LH335200.000000X" H 10410 9725 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Renesas-IDT/XLH335200000000X?qs=Sm3NkJ%2FXO7880qM4amvCKA%3D%3D" H 10410 9625 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Renesas Electronics" H 10410 9525 50  0001 L CNN "Manufacturer_Name"
+F 9 "XLH335200.000000X" H 10410 9425 50  0001 L CNN "Manufacturer_Part_Number"
+	1    9460 10025
+	1    0    0    -1  
+$EndComp
+$Comp
+L SamacSys_Parts:DSC6101JL3B-050.0000 Y1
+U 1 1 60AF209F
+P 9325 10800
+F 0 "Y1" H 10025 11065 50  0000 C CNN
+F 1 "OSC 50 MHz" H 10025 10974 50  0000 C CNN
+F 2 "DSC6101JL3B0500000" H 10575 10900 50  0001 L CNN
+F 3 "https://componentsearchengine.com/Datasheets/1/DSC6101JL3B-050.0000.pdf" H 10575 10800 50  0001 L CNN
+F 4 "Standard Clock Oscillators Ultra-low Power MEMS Oscillator, 2520,-40C to+105C, 20ppm" H 10575 10700 50  0001 L CNN "Description"
+F 5 "0.89" H 10575 10600 50  0001 L CNN "Height"
+F 6 "579-6101JL3B0500000" H 10575 10500 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/DSC6101JL3B-0500000?qs=PqoDHHvF64%252BhnEHVKSI6DQ%3D%3D" H 10575 10400 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Microchip" H 10575 10300 50  0001 L CNN "Manufacturer_Name"
+F 9 "DSC6101JL3B-050.0000" H 10575 10200 50  0001 L CNN "Manufacturer_Part_Number"
+	1    9325 10800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR06
+U 1 1 60AF3C56
+P 10165 1315
+F 0 "#PWR06" H 10165 1065 50  0001 C CNN
+F 1 "GND" H 10170 1142 50  0000 C CNN
+F 2 "" H 10165 1315 50  0001 C CNN
+F 3 "" H 10165 1315 50  0001 C CNN
+	1    10165 1315
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR03
+U 1 1 60AF59AF
+P 9460 10225
+F 0 "#PWR03" H 9460 9975 50  0001 C CNN
+F 1 "GND" H 9465 10052 50  0000 C CNN
+F 2 "" H 9460 10225 50  0001 C CNN
+F 3 "" H 9460 10225 50  0001 C CNN
+	1    9460 10225
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR05
+U 1 1 60AF735D
+P 10725 10900
+F 0 "#PWR05" H 10725 10650 50  0001 C CNN
+F 1 "GND" H 10730 10727 50  0000 C CNN
+F 2 "" H 10725 10900 50  0001 C CNN
+F 3 "" H 10725 10900 50  0001 C CNN
+	1    10725 10900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR01
+U 1 1 60AF8263
+P 8510 1215
+F 0 "#PWR01" H 8510 1065 50  0001 C CNN
+F 1 "+3V3" H 8525 1388 50  0000 C CNN
+F 2 "" H 8510 1215 50  0001 C CNN
+F 3 "" H 8510 1215 50  0001 C CNN
+	1    8510 1215
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR04
+U 1 1 60AFABBA
+P 10650 9850
+F 0 "#PWR04" H 10650 9700 50  0001 C CNN
+F 1 "+3V3" H 10665 10023 50  0000 C CNN
+F 2 "" H 10650 9850 50  0001 C CNN
+F 3 "" H 10650 9850 50  0001 C CNN
+	1    10650 9850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR02
+U 1 1 60AFC341
+P 9230 10800
+F 0 "#PWR02" H 9230 10650 50  0001 C CNN
+F 1 "+3V3" H 9245 10973 50  0000 C CNN
+F 2 "" H 9230 10800 50  0001 C CNN
+F 3 "" H 9230 10800 50  0001 C CNN
+	1    9230 10800
+	1    0    0    -1  
+$EndComp
+NoConn ~ 10560 10125
+Text GLabel 10165 1215 2    50   Output ~ 0
+OSC_32K768
+Text GLabel 8400 2900 1    50   Input ~ 0
+OSC_32K768
+Text GLabel 10560 10225 2    50   Output ~ 0
+OSC_50M
+Text GLabel 10725 10800 2    50   Output ~ 0
+OSC_200M
+Text GLabel 8500 9000 3    50   Input ~ 0
+OSC_50M
+Text GLabel 8600 9000 3    50   Input ~ 0
+OSC_200M
+Wire Wire Line
+	9460 10025 9460 9900
+Wire Wire Line
+	10560 9900 10560 10025
+Wire Wire Line
+	9325 10900 9290 10900
+Wire Wire Line
+	9290 10900 9290 10800
+Wire Wire Line
+	9290 10800 9325 10800
+Wire Wire Line
+	9290 10800 9230 10800
+Connection ~ 9290 10800
+Wire Wire Line
+	8580 1215 8580 1315
+Wire Wire Line
+	8580 1215 8665 1215
+Wire Wire Line
+	8580 1315 8665 1315
+Wire Wire Line
+	8580 1215 8510 1215
+Connection ~ 8580 1215
+$Comp
+L power:GND #PWR011
+U 1 1 60B7730A
+P 4000 2050
+F 0 "#PWR011" H 4000 1800 50  0001 C CNN
+F 1 "GND" V 4005 1922 50  0000 R CNN
+F 2 "" H 4000 2050 50  0001 C CNN
+F 3 "" H 4000 2050 50  0001 C CNN
+	1    4000 2050
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR08
+U 1 1 60B77319
+P 3350 2350
+F 0 "#PWR08" H 3350 2100 50  0001 C CNN
+F 1 "GND" H 3355 2177 50  0000 C CNN
+F 2 "" H 3350 2350 50  0001 C CNN
+F 3 "" H 3350 2350 50  0001 C CNN
+	1    3350 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VBUS #PWR07
+U 1 1 60B77334
+P 3350 1850
+F 0 "#PWR07" H 3350 1700 50  0001 C CNN
+F 1 "VBUS" H 3350 2000 50  0000 C CNN
+F 2 "" H 3350 1850 50  0001 C CNN
+F 3 "" H 3350 1850 50  0001 C CNN
+	1    3350 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+2V5 #PWR013
+U 1 1 60B784B3
+P 5350 2000
+F 0 "#PWR013" H 5350 1850 50  0001 C CNN
+F 1 "+2V5" H 5350 2200 50  0000 C CNN
+F 2 "" H 5350 2000 50  0001 C CNN
+F 3 "" H 5350 2000 50  0001 C CNN
+	1    5350 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4210 3085 3860 3085
+$Comp
+L power:GND #PWR012
+U 1 1 60B7ED0D
+P 4210 3185
+F 0 "#PWR012" H 4210 2935 50  0001 C CNN
+F 1 "GND" V 4215 3057 50  0000 R CNN
+F 2 "" H 4210 3185 50  0001 C CNN
+F 3 "" H 4210 3185 50  0001 C CNN
+	1    4210 3185
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4210 3285 3860 3285
+Wire Wire Line
+	3860 3285 3860 3085
+Connection ~ 3860 3085
+$Comp
+L Device:C C4
+U 1 1 60B7ED16
+P 3360 3335
+F 0 "C4" H 3475 3381 50  0000 L CNN
+F 1 "1uF" H 3475 3290 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3398 3185 50  0001 C CNN
+F 3 "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf" H 3360 3335 50  0001 C CNN
+F 4 "0.8" H 3360 3335 50  0001 C CNN "Height"
+F 5 "TDK" H 3360 3335 50  0001 C CNN "Manufacturer_Name"
+F 6 "CGA3E1X7R1C105K080AC" H 3360 3335 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "810-CGA3E1X7R1C105AC" H 3360 3335 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/TDK/CGA3E1X7R1C105K080AC?qs=sGAEpiMZZMsh%252B1woXyUXj37KuThiJmV59T1luU59XfI%3D" H 3360 3335 50  0001 C CNN "Mouser Price/Stock"
+	1    3360 3335
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR010
+U 1 1 60B7ED1C
+P 3360 3485
+F 0 "#PWR010" H 3360 3235 50  0001 C CNN
+F 1 "GND" H 3365 3312 50  0000 C CNN
+F 2 "" H 3360 3485 50  0001 C CNN
+F 3 "" H 3360 3485 50  0001 C CNN
+	1    3360 3485
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5310 3185 5460 3185
+$Comp
+L power:GND #PWR016
+U 1 1 60B7ED29
+P 5460 3485
+F 0 "#PWR016" H 5460 3235 50  0001 C CNN
+F 1 "GND" H 5465 3312 50  0000 C CNN
+F 2 "" H 5460 3485 50  0001 C CNN
+F 3 "" H 5460 3485 50  0001 C CNN
+	1    5460 3485
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3860 3085 3360 3085
+$Comp
+L power:VBUS #PWR09
+U 1 1 60B7ED37
+P 3360 2985
+F 0 "#PWR09" H 3360 2835 50  0001 C CNN
+F 1 "VBUS" H 3360 3135 50  0000 C CNN
+F 2 "" H 3360 2985 50  0001 C CNN
+F 3 "" H 3360 2985 50  0001 C CNN
+	1    3360 2985
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3360 3085 3360 3185
+Wire Wire Line
+	5460 3085 5460 3185
+Wire Wire Line
+	3360 2985 3360 3085
+Connection ~ 3360 3085
+$Comp
+L power:+1V2 #PWR015
+U 1 1 60B84B8D
+P 5460 3085
+F 0 "#PWR015" H 5460 2935 50  0001 C CNN
+F 1 "+1V2" H 5460 3285 50  0000 C CNN
+F 2 "" H 5460 3085 50  0001 C CNN
+F 3 "" H 5460 3085 50  0001 C CNN
+	1    5460 3085
+	1    0    0    -1  
+$EndComp
+$Comp
+L SamacSys_Parts:MIC5504-2.5YM5-T5 IC3
+U 1 1 60B86A15
+P 4000 1950
+F 0 "IC3" H 4550 2215 50  0000 C CNN
+F 1 "MIC5504-2.5YM5-T5" H 4550 2124 50  0000 C CNN
+F 2 "SOT95P280X145-5N" H 4950 2050 50  0001 L CNN
+F 3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en580292" H 4950 1950 50  0001 L CNN
+F 4 "LDO Voltage Regulators Single 300mA LDO with Enable Pull-Down & Auto Discharge" H 4950 1850 50  0001 L CNN "Description"
+F 5 "1.45" H 4950 1750 50  0001 L CNN "Height"
+F 6 "998-MIC5504-25YM5T5" H 4950 1650 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Micrel/MIC5504-25YM5-T5?qs=U6T8BxXiZAU9L3lI1TCYpQ%3D%3D" H 4950 1550 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Microchip" H 4950 1450 50  0001 L CNN "Manufacturer_Name"
+F 9 "MIC5504-2.5YM5-T5" H 4950 1350 50  0001 L CNN "Manufacturer_Part_Number"
+	1    4000 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L SamacSys_Parts:MIC5504-1.2YM5-TR IC4
+U 1 1 60B89EE0
+P 4210 3085
+F 0 "IC4" H 4760 3350 50  0000 C CNN
+F 1 "MIC5504-1.2YM5-TR" H 4760 3259 50  0000 C CNN
+F 2 "SOT95P280X130-5N" H 5160 3185 50  0001 L CNN
+F 3 "" H 5160 3085 50  0001 L CNN
+F 4 "LDO Voltage Regulators" H 5160 2985 50  0001 L CNN "Description"
+F 5 "1.3" H 5160 2885 50  0001 L CNN "Height"
+F 6 "998-MIC5504-1.2YM5TR" H 5160 2785 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Micrel/MIC5504-12YM5-TR?qs=U6T8BxXiZAU3XuZloesnLA%3D%3D" H 5160 2685 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Microchip" H 5160 2585 50  0001 L CNN "Manufacturer_Name"
+F 9 "MIC5504-1.2YM5-TR" H 5160 2485 50  0001 L CNN "Manufacturer_Part_Number"
+	1    4210 3085
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 60B9DD31
+P 3350 2150
+F 0 "C3" H 3465 2196 50  0000 L CNN
+F 1 "1uF" H 3465 2105 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3388 2000 50  0001 C CNN
+F 3 "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf" H 3350 2150 50  0001 C CNN
+F 4 "0.8" H 3350 2150 50  0001 C CNN "Height"
+F 5 "TDK" H 3350 2150 50  0001 C CNN "Manufacturer_Name"
+F 6 "CGA3E1X7R1C105K080AC" H 3350 2150 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "810-CGA3E1X7R1C105AC" H 3350 2150 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/TDK/CGA3E1X7R1C105K080AC?qs=sGAEpiMZZMsh%252B1woXyUXj37KuThiJmV59T1luU59XfI%3D" H 3350 2150 50  0001 C CNN "Mouser Price/Stock"
+	1    3350 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 60B9F502
+P 3335 1175
+F 0 "C1" H 3450 1221 50  0000 L CNN
+F 1 "1uF" H 3450 1130 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3373 1025 50  0001 C CNN
+F 3 "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf" H 3335 1175 50  0001 C CNN
+F 4 "0.8" H 3335 1175 50  0001 C CNN "Height"
+F 5 "TDK" H 3335 1175 50  0001 C CNN "Manufacturer_Name"
+F 6 "CGA3E1X7R1C105K080AC" H 3335 1175 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "810-CGA3E1X7R1C105AC" H 3335 1175 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/TDK/CGA3E1X7R1C105K080AC?qs=sGAEpiMZZMsh%252B1woXyUXj37KuThiJmV59T1luU59XfI%3D" H 3335 1175 50  0001 C CNN "Mouser Price/Stock"
+	1    3335 1175
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 60BA2574
+P 5435 1175
+F 0 "C2" H 5550 1221 50  0000 L CNN
+F 1 "1uF" H 5550 1130 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5473 1025 50  0001 C CNN
+F 3 "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf" H 5435 1175 50  0001 C CNN
+F 4 "0.8" H 5435 1175 50  0001 C CNN "Height"
+F 5 "TDK" H 5435 1175 50  0001 C CNN "Manufacturer_Name"
+F 6 "CGA3E1X7R1C105K080AC" H 5435 1175 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "810-CGA3E1X7R1C105AC" H 5435 1175 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/TDK/CGA3E1X7R1C105K080AC?qs=sGAEpiMZZMsh%252B1woXyUXj37KuThiJmV59T1luU59XfI%3D" H 5435 1175 50  0001 C CNN "Mouser Price/Stock"
+	1    5435 1175
+	1    0    0    -1  
+$EndComp
+Connection ~ 5435 1025
+$Comp
+L Device:C C6
+U 1 1 60BA621E
+P 5460 3335
+F 0 "C6" H 5575 3381 50  0000 L CNN
+F 1 "1uF" H 5575 3290 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5498 3185 50  0001 C CNN
+F 3 "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf" H 5460 3335 50  0001 C CNN
+F 4 "0.8" H 5460 3335 50  0001 C CNN "Height"
+F 5 "TDK" H 5460 3335 50  0001 C CNN "Manufacturer_Name"
+F 6 "CGA3E1X7R1C105K080AC" H 5460 3335 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "810-CGA3E1X7R1C105AC" H 5460 3335 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/TDK/CGA3E1X7R1C105K080AC?qs=sGAEpiMZZMsh%252B1woXyUXj37KuThiJmV59T1luU59XfI%3D" H 5460 3335 50  0001 C CNN "Mouser Price/Stock"
+	1    5460 3335
+	1    0    0    -1  
+$EndComp
+Connection ~ 5460 3185
+$Comp
+L power:+2V5 #PWR0138
+U 1 1 60BB06D6
+P 11250 8950
+F 0 "#PWR0138" H 11250 8800 50  0001 C CNN
+F 1 "+2V5" H 11250 9150 50  0000 C CNN
+F 2 "" H 11250 8950 50  0001 C CNN
+F 3 "" H 11250 8950 50  0001 C CNN
+	1    11250 8950
+	1    0    0    -1  
+$EndComp
+$Comp
+L SamacSys_Parts:KG_DELLS1.22-JGKH-24 LED1
+U 1 1 60BB5EE7
+P 11250 9950
+F 0 "LED1" V 11596 9820 50  0000 R CNN
+F 1 "KG_DELLS1.22-JGKH-24" V 11505 9820 50  0000 R CNN
+F 2 "KGDELLS122JGKH24" H 11750 10100 50  0001 L BNN
+F 3 "https://dammedia.osram.info/media/resource/hires/osram-dam-5423212/KG%20DELLS1.22_EN.pdf" H 11750 10000 50  0001 L BNN
+F 4 "Standard LEDs - SMD Green TOPLED E 1608" H 11750 9900 50  0001 L BNN "Description"
+F 5 "" H 11750 9800 50  0001 L BNN "Height"
+F 6 "720-KGDELLS122A4849" H 11750 9700 50  0001 L BNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/KG-DELLS122-JGKH-24?qs=XeJtXLiO41QWpmNP80zu3g%3D%3D" H 11750 9600 50  0001 L BNN "Mouser Price/Stock"
+F 8 "OSRAM" H 11750 9500 50  0001 L BNN "Manufacturer_Name"
+F 9 "KG DELLS1.22-JGKH-24" H 11750 9400 50  0001 L BNN "Manufacturer_Part_Number"
+	1    11250 9950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0139
+U 1 1 60BC7166
+P 11250 10250
+F 0 "#PWR0139" H 11250 10000 50  0001 C CNN
+F 1 "GND" H 11255 10077 50  0000 C CNN
+F 2 "" H 11250 10250 50  0001 C CNN
+F 3 "" H 11250 10250 50  0001 C CNN
+	1    11250 10250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0140
+U 1 1 60BD5D52
+P 6900 2900
+F 0 "#PWR0140" H 6900 2650 50  0001 C CNN
+F 1 "GND" V 6905 2727 50  0000 C CNN
+F 2 "" H 6900 2900 50  0001 C CNN
+F 3 "" H 6900 2900 50  0001 C CNN
+	1    6900 2900
+	-1   0    0    1   
+$EndComp
+NoConn ~ 7100 9000
+NoConn ~ 7000 9000
+$Comp
+L Device:R R1
+U 1 1 60BFE9D4
+P 5750 2200
+F 0 "R1" H 5820 2246 50  0000 L CNN
+F 1 "68" H 5820 2155 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 5680 2200 50  0001 C CNN
+F 3 "https://eu.mouser.com/datasheet/2/418/4/NG_DS_1773204-3_1-1358553.pdf" H 5750 2200 50  0001 C CNN
+F 4 "0.55" H 5750 2200 50  0001 C CNN "Height"
+F 5 "TE connectivity" H 5750 2200 50  0001 C CNN "Manufacturer_Name"
+F 6 "CRGCQ1206F4K7" H 5750 2200 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "279-CRGCQ1206F4K7" H 5750 2200 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/TE-Connectivity-Holsworthy/CRGCQ1206F4K7?qs=sGAEpiMZZMvdGkrng054t7z4BkURc4Lz6Qgaa%2FMFOKfEc%252BjCojXegg%3D%3D" H 5750 2200 50  0001 C CNN "Mouser Price/Stock"
+	1    5750 2200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6800 2900 6800 2350
+NoConn ~ 8700 9000
+Wire Wire Line
+	9460 9900 10560 9900
+Connection ~ 10560 9900
+Wire Wire Line
+	10560 9900 10650 9900
+Wire Wire Line
+	10650 9850 10650 9900
+Wire Wire Line
+	7800 9100 7800 9000
+Wire Wire Line
+	3250 850  3250 925 
+Wire Wire Line
+	3250 925  3335 925 
+Connection ~ 3335 925 
+NoConn ~ 7700 9000
+NoConn ~ 8000 9000
+NoConn ~ 8100 9000
+NoConn ~ 8200 9000
+NoConn ~ 8300 9000
+NoConn ~ 8900 9000
+NoConn ~ 9300 9000
+$Comp
+L SamacSys_Parts:22-03-2151 J2
+U 1 1 60A854A9
+P 4900 6400
+F 0 "J2" H 5528 5746 50  0000 L CNN
+F 1 "BANK 6/7" H 5528 5655 50  0000 L CNN
+F 2 "HDRV15W67P0X254_1X15_3785X236X1117P" H 5550 6500 50  0001 L CNN
+F 3 "https://www.molex.com/pdm_docs/sd/022032151_sd.pdf" H 5550 6400 50  0001 L CNN
+F 4 "Headers & Wire Housings 15 CKT HEADER" H 5550 6300 50  0001 L CNN "Description"
+F 5 "11.17" H 5550 6200 50  0001 L CNN "Height"
+F 6 "538-22-03-2151" H 5550 6100 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Molex/22-03-2151?qs=ekUqD6al18LyoqH74YTXzg%3D%3D" H 5550 6000 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Molex" H 5550 5900 50  0001 L CNN "Manufacturer_Name"
+F 9 "22-03-2151" H 5550 5800 50  0001 L CNN "Manufacturer_Part_Number"
+	1    4900 6400
+	-1   0    0    1   
+$EndComp
+Text GLabel 6400 6400 0    50   BiDi ~ 0
+IO_L24N_6
+Text GLabel 6400 6500 0    50   BiDi ~ 0
+IO_L23P_6
+Text GLabel 6400 6600 0    50   BiDi ~ 0
+IO_L23N_6
+Text GLabel 6400 6700 0    50   BiDi ~ 0
+IO_L22P_6
+Text GLabel 6400 6800 0    50   BiDi ~ 0
+IO_L22N_6
+Text GLabel 4900 5800 2    50   BiDi ~ 0
+IO_L24N_6
+Text GLabel 4900 5900 2    50   BiDi ~ 0
+IO_L23P_6
+Text GLabel 4900 6000 2    50   BiDi ~ 0
+IO_L23N_6
+Text GLabel 4900 6100 2    50   BiDi ~ 0
+IO_L22P_6
+Text GLabel 4900 6200 2    50   BiDi ~ 0
+IO_L22N_6
+NoConn ~ 7000 2900
+NoConn ~ 7100 2900
+NoConn ~ 7900 2900
+NoConn ~ 8000 2900
+NoConn ~ 8100 2900
+NoConn ~ 8200 2900
+NoConn ~ 8300 2900
+NoConn ~ 8600 2900
+NoConn ~ 8700 2900
+NoConn ~ 8800 2900
+NoConn ~ 8900 2900
+NoConn ~ 9200 2900
+NoConn ~ 9300 2900
+$Comp
+L SamacSys_Parts:ATMEGA328P-PU IC5
+U 1 1 60AABD90
+P 11900 1700
+F 0 "IC5" H 13400 1965 50  0000 C CNN
+F 1 "ATMEGA328P-PU" H 13400 1874 50  0000 C CNN
+F 2 "DIP794W53P254L3467H457Q28N" H 14750 1800 50  0001 L CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf" H 14750 1700 50  0001 L CNN
+F 4 "MICROCHIP - ATMEGA328P-PU. - MICROCONTROLLER MCU, 8 BIT, ATMEGA, 20MHZ, DIP-28" H 14750 1600 50  0001 L CNN "Description"
+F 5 "4.572" H 14750 1500 50  0001 L CNN "Height"
+F 6 "556-ATMEGA328P-PU" H 14750 1400 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/ATMEGA328P-PU?qs=K8BHR703ZXguOQv3sKbWcg%3D%3D" H 14750 1300 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Microchip" H 14750 1200 50  0001 L CNN "Manufacturer_Name"
+F 9 "ATMEGA328P-PU" H 14750 1100 50  0001 L CNN "Manufacturer_Part_Number"
+	1    11900 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR017
+U 1 1 60AB117D
+P 11900 1700
+F 0 "#PWR017" H 11900 1550 50  0001 C CNN
+F 1 "+3V3" V 11900 1950 50  0000 C CNN
+F 2 "" H 11900 1700 50  0001 C CNN
+F 3 "" H 11900 1700 50  0001 C CNN
+	1    11900 1700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR018
+U 1 1 60AB1E90
+P 11900 3000
+F 0 "#PWR018" H 11900 2750 50  0001 C CNN
+F 1 "GND" V 11905 2827 50  0000 C CNN
+F 2 "" H 11900 3000 50  0001 C CNN
+F 3 "" H 11900 3000 50  0001 C CNN
+	1    11900 3000
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR019
+U 1 1 60AB2572
+P 11900 3100
+F 0 "#PWR019" H 11900 2850 50  0001 C CNN
+F 1 "GND" V 11905 2927 50  0000 C CNN
+F 2 "" H 11900 3100 50  0001 C CNN
+F 3 "" H 11900 3100 50  0001 C CNN
+	1    11900 3100
+	0    1    1    0   
+$EndComp
+Text GLabel 9500 9000 3    50   BiDi ~ 0
+DIN_DO
+Text GLabel 11900 2300 0    50   BiDi ~ 0
+DIN_DO
+Text GLabel 10500 9000 2    50   Input ~ 0
+CCLK
+Text GLabel 11900 2400 0    50   Output ~ 0
+CCLK
+$Comp
+L Device:R R4
+U 1 1 60AB6C13
+P 10350 9000
+F 0 "R4" V 10250 8950 50  0000 L CNN
+F 1 "68" V 10450 8950 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 10280 9000 50  0001 C CNN
+F 3 "https://eu.mouser.com/datasheet/2/54/crxxxxx-1858361.pdf" H 10350 9000 50  0001 C CNN
+F 4 "0.6" H 10350 9000 50  0001 C CNN "Height"
+F 5 "Bourns" H 10350 9000 50  0001 C CNN "Manufacturer_Name"
+F 6 "CR1206-FX-3000ELF" H 10350 9000 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "652-CR1206FX-3000ELF" H 10350 9000 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/Bourns/CR1206-FX-3000ELF?qs=sGAEpiMZZMvdGkrng054t%252BRNGJdg958Rl190QYXywEU%3D" H 10350 9000 50  0001 C CNN "Mouser Price/Stock"
+	1    10350 9000
+	0    1    1    0   
+$EndComp
+Text GLabel 11900 2500 0    50   Output ~ 0
+PROG_B
+Text GLabel 6800 2050 1    50   Input ~ 0
+PROG_B
+Wire Wire Line
+	8800 9000 8800 9450
+$Comp
+L power:+3V3 #PWR0165
+U 1 1 60BD7D79
+P 8800 9850
+F 0 "#PWR0165" H 8800 9700 50  0001 C CNN
+F 1 "+3V3" H 8800 9995 50  0000 C CNN
+F 2 "" H 8800 9850 50  0001 C CNN
+F 3 "" H 8800 9850 50  0001 C CNN
+	1    8800 9850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 60BD67EB
+P 8800 9700
+F 0 "R2" H 8870 9746 50  0000 L CNN
+F 1 "4.7K" H 8870 9655 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 8730 9700 50  0001 C CNN
+F 3 "https://eu.mouser.com/datasheet/2/418/4/NG_DS_1773204-3_1-1358553.pdf" H 8800 9700 50  0001 C CNN
+F 4 "0.55" H 8800 9700 50  0001 C CNN "Height"
+F 5 "TE connectivity" H 8800 9700 50  0001 C CNN "Manufacturer_Name"
+F 6 "CRGCQ1206F4K7" H 8800 9700 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "279-CRGCQ1206F4K7" H 8800 9700 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/TE-Connectivity-Holsworthy/CRGCQ1206F4K7?qs=sGAEpiMZZMvdGkrng054t7z4BkURc4Lz6Qgaa%2FMFOKfEc%252BjCojXegg%3D%3D" H 8800 9700 50  0001 C CNN "Mouser Price/Stock"
+	1    8800 9700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8800 9450 8900 9450
+Connection ~ 8800 9450
+Wire Wire Line
+	8800 9450 8800 9550
+Text GLabel 8900 9450 2    50   Output ~ 0
+INIT_B
+Text GLabel 11900 2600 0    50   Input ~ 0
+INIT_B
+$Comp
+L Device:R R5
+U 1 1 60AC896C
+P 11250 9100
+F 0 "R5" H 11100 9050 50  0000 L CNN
+F 1 "330" H 11050 9150 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 11180 9100 50  0001 C CNN
+F 3 "https://eu.mouser.com/datasheet/2/54/crxxxxx-1858361.pdf" H 11250 9100 50  0001 C CNN
+F 4 "0.6" H 11250 9100 50  0001 C CNN "Height"
+F 5 "Bourns" H 11250 9100 50  0001 C CNN "Manufacturer_Name"
+F 6 "CR1206-FX-3000ELF" H 11250 9100 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "652-CR1206FX-3000ELF" H 11250 9100 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/Bourns/CR1206-FX-3000ELF?qs=sGAEpiMZZMvdGkrng054t%252BRNGJdg958Rl190QYXywEU%3D" H 11250 9100 50  0001 C CNN "Mouser Price/Stock"
+	1    11250 9100
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	11250 9250 11250 9300
+Wire Wire Line
+	10100 9300 10100 9000
+Connection ~ 11250 9300
+Wire Wire Line
+	11250 9300 11250 9350
+Wire Wire Line
+	11250 9300 11550 9300
+$Comp
+L Device:R R6
+U 1 1 60AD4658
+P 11250 10100
+F 0 "R6" H 11100 10000 50  0000 L CNN
+F 1 "330" H 11050 10100 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 11180 10100 50  0001 C CNN
+F 3 "https://eu.mouser.com/datasheet/2/54/crxxxxx-1858361.pdf" H 11250 10100 50  0001 C CNN
+F 4 "0.6" H 11250 10100 50  0001 C CNN "Height"
+F 5 "Bourns" H 11250 10100 50  0001 C CNN "Manufacturer_Name"
+F 6 "CR1206-FX-3000ELF" H 11250 10100 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "652-CR1206FX-3000ELF" H 11250 10100 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/Bourns/CR1206-FX-3000ELF?qs=sGAEpiMZZMvdGkrng054t%252BRNGJdg958Rl190QYXywEU%3D" H 11250 10100 50  0001 C CNN "Mouser Price/Stock"
+	1    11250 10100
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10100 9300 11250 9300
+Text GLabel 11550 9300 2    50   Output ~ 0
+DONE
+$Comp
+L power:GND #PWR014
+U 1 1 60B77326
+P 5550 2450
+F 0 "#PWR014" H 5550 2200 50  0001 C CNN
+F 1 "GND" H 5555 2277 50  0000 C CNN
+F 2 "" H 5550 2450 50  0001 C CNN
+F 3 "" H 5550 2450 50  0001 C CNN
+	1    5550 2450
+	1    0    0    -1  
+$EndComp
+Text GLabel 11900 2700 0    50   Input ~ 0
+DONE
+$Comp
+L Device:C C5
+U 1 1 60BA4919
+P 5350 2200
+F 0 "C5" H 5465 2246 50  0000 L CNN
+F 1 "1uF" H 5465 2155 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5388 2050 50  0001 C CNN
+F 3 "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf" H 5350 2200 50  0001 C CNN
+F 4 "0.8" H 5350 2200 50  0001 C CNN "Height"
+F 5 "TDK" H 5350 2200 50  0001 C CNN "Manufacturer_Name"
+F 6 "CGA3E1X7R1C105K080AC" H 5350 2200 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "810-CGA3E1X7R1C105AC" H 5350 2200 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/TDK/CGA3E1X7R1C105K080AC?qs=sGAEpiMZZMsh%252B1woXyUXj37KuThiJmV59T1luU59XfI%3D" H 5350 2200 50  0001 C CNN "Mouser Price/Stock"
+	1    5350 2200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4000 1950 3650 1950
+Wire Wire Line
+	3350 1950 3350 1850
+Wire Wire Line
+	3350 1950 3350 2000
+Connection ~ 3350 1950
+Wire Wire Line
+	4000 2150 3650 2150
+Wire Wire Line
+	3650 2150 3650 1950
+Connection ~ 3650 1950
+Wire Wire Line
+	3650 1950 3350 1950
+Wire Wire Line
+	5100 2050 5350 2050
+Wire Wire Line
+	5350 2050 5350 2000
+Connection ~ 5350 2050
+Wire Wire Line
+	5350 2350 5350 2450
+Wire Wire Line
+	5350 2450 5550 2450
+Wire Wire Line
+	5550 2450 5750 2450
+Wire Wire Line
+	5750 2450 5750 2350
+Connection ~ 5550 2450
+Wire Wire Line
+	5750 2050 5350 2050
+$Comp
+L Device:R R3
+U 1 1 60B09EDC
+P 6800 2200
+F 0 "R3" H 6870 2246 50  0000 L CNN
+F 1 "68" H 6870 2155 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 6730 2200 50  0001 C CNN
+F 3 "https://eu.mouser.com/datasheet/2/418/4/NG_DS_1773204-3_1-1358553.pdf" H 6800 2200 50  0001 C CNN
+F 4 "0.55" H 6800 2200 50  0001 C CNN "Height"
+F 5 "TE connectivity" H 6800 2200 50  0001 C CNN "Manufacturer_Name"
+F 6 "CRGCQ1206F4K7" H 6800 2200 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "279-CRGCQ1206F4K7" H 6800 2200 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/TE-Connectivity-Holsworthy/CRGCQ1206F4K7?qs=sGAEpiMZZMvdGkrng054t7z4BkURc4Lz6Qgaa%2FMFOKfEc%252BjCojXegg%3D%3D" H 6800 2200 50  0001 C CNN "Mouser Price/Stock"
+	1    6800 2200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3350 2300 3350 2350
+$Comp
+L power:+3V3 #PWR0159
+U 1 1 60B0F0A4
+P 11900 1800
+F 0 "#PWR0159" H 11900 1650 50  0001 C CNN
+F 1 "+3V3" V 11900 2050 50  0000 C CNN
+F 2 "" H 11900 1800 50  0001 C CNN
+F 3 "" H 11900 1800 50  0001 C CNN
+	1    11900 1800
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 11900 2000
+$Comp
+L SamacSys_Parts:CSTNE8M00G550000R0 U1
+U 1 1 60AA1583
+P 15550 3550
+F 0 "U1" V 16400 3400 50  0000 L CNN
+F 1 "RESON_8M" V 16500 3300 50  0000 L CNN
+F 2 "CSTNE16M0V530000R0" H 16400 3650 50  0001 L CNN
+F 3 "https://www.murata.com/en-eu/products/productdata/8801161740318/SPEC-CSTNE8M00G550000R0.pdf?1519875007000" H 16400 3550 50  0001 L CNN
+F 4 "Resonators 8.0000MHz 33pF SMD CHP Resntr" H 16400 3450 50  0001 L CNN "Description"
+F 5 "1" H 16400 3350 50  0001 L CNN "Height"
+F 6 "81-CSTNE8M00G550000R" H 16400 3250 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/CSTNE8M00G550000R0?qs=y6ZabgHbY%252BzeBq2Vg%2FdAYw%3D%3D" H 16400 3150 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Murata Electronics" H 16400 3050 50  0001 L CNN "Manufacturer_Name"
+F 9 "CSTNE8M00G550000R0" H 16400 2950 50  0001 L CNN "Manufacturer_Part_Number"
+	1    15550 3550
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0160
+U 1 1 60AA4EEF
+P 15450 3550
+F 0 "#PWR0160" H 15450 3300 50  0001 C CNN
+F 1 "GND" V 15455 3377 50  0000 C CNN
+F 2 "" H 15450 3550 50  0001 C CNN
+F 3 "" H 15450 3550 50  0001 C CNN
+	1    15450 3550
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	15300 3550 15350 3550
+Wire Wire Line
+	15600 3550 15550 3550
+Wire Wire Line
+	14900 3200 15600 3200
+Wire Wire Line
+	14900 3300 15300 3300
+Wire Wire Line
+	15300 3300 15300 3550
+Wire Wire Line
+	15600 3200 15600 3550
+$Comp
+L SamacSys_Parts:ZX62-B-5PA_33_ J4
+U 1 1 60AB93E8
+P 1300 1700
+F 0 "J4" H 1800 1965 50  0000 C CNN
+F 1 "ZX62-B-5PA_33_" H 1800 1874 50  0000 C CNN
+F 2 "ZX62B5PA33" H 2150 1800 50  0001 L CNN
+F 3 "https://www.hirose.com/product/download/?distributor=digikey&type=specSheet&lang=en&num=ZX62-B-5PA(33)" H 2150 1700 50  0001 L CNN
+F 4 "USB Connectors MICRO B RECEPT RA SMT BTTM MNT" H 2150 1600 50  0001 L CNN "Description"
+F 5 "3" H 2150 1500 50  0001 L CNN "Height"
+F 6 "798-ZX62-B-5PA33" H 2150 1400 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/ZX62-B-5PA33?qs=IvjI65BR3TWOr0fx8JTXXw%3D%3D" H 2150 1300 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Hirose" H 2150 1200 50  0001 L CNN "Manufacturer_Name"
+F 9 "ZX62-B-5PA(33)" H 2150 1100 50  0001 L CNN "Manufacturer_Part_Number"
+	1    1300 1700
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1300 2200
+NoConn ~ 2300 2100
+NoConn ~ 2300 2000
+NoConn ~ 2300 1900
+NoConn ~ 2300 1800
+NoConn ~ 2300 1700
+$Comp
+L power:VBUS #PWR0141
+U 1 1 60AD2526
+P 1200 1650
+F 0 "#PWR0141" H 1200 1500 50  0001 C CNN
+F 1 "VBUS" H 1200 1800 50  0000 C CNN
+F 2 "" H 1200 1650 50  0001 C CNN
+F 3 "" H 1200 1650 50  0001 C CNN
+	1    1200 1650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1200 1650 1200 1700
+Wire Wire Line
+	1200 1700 1300 1700
+Text GLabel 1300 1800 0    50   BiDi ~ 0
+D-
+Text GLabel 1300 1900 0    50   BiDi ~ 0
+D+
+$Comp
+L power:GND #PWR0142
+U 1 1 60AD7F88
+P 1300 2100
+F 0 "#PWR0142" H 1300 1850 50  0001 C CNN
+F 1 "GND" V 1305 1927 50  0000 C CNN
+F 2 "" H 1300 2100 50  0001 C CNN
+F 3 "" H 1300 2100 50  0001 C CNN
+	1    1300 2100
+	0    1    1    0   
+$EndComp
+NoConn ~ 1300 2000
+$Comp
+L power:GND #PWR0143
+U 1 1 60AE683A
+P 2900 6250
+F 0 "#PWR0143" H 2900 6000 50  0001 C CNN
+F 1 "GND" V 2905 6122 50  0000 R CNN
+F 2 "" H 2900 6250 50  0001 C CNN
+F 3 "" H 2900 6250 50  0001 C CNN
+	1    2900 6250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0144
+U 1 1 60AE706E
+P 2900 5950
+F 0 "#PWR0144" H 2900 5700 50  0001 C CNN
+F 1 "GND" V 2905 5822 50  0000 R CNN
+F 2 "" H 2900 5950 50  0001 C CNN
+F 3 "" H 2900 5950 50  0001 C CNN
+	1    2900 5950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0145
+U 1 1 60AE7390
+P 1600 5850
+F 0 "#PWR0145" H 1600 5600 50  0001 C CNN
+F 1 "GND" V 1605 5722 50  0000 R CNN
+F 2 "" H 1600 5850 50  0001 C CNN
+F 3 "" H 1600 5850 50  0001 C CNN
+	1    1600 5850
+	0    1    1    0   
+$EndComp
+Text GLabel 2900 6450 2    50   BiDi ~ 0
+D-
+Text GLabel 2900 6550 2    50   BiDi ~ 0
+D+
+NoConn ~ 2900 5650
+NoConn ~ 1600 5950
+Wire Wire Line
+	2900 6350 3200 6350
+Wire Wire Line
+	3200 6350 3200 6750
+Wire Wire Line
+	3200 6750 750  6750
+Wire Wire Line
+	750  6750 750  5550
+Wire Wire Line
+	750  5550 1600 5550
+$Comp
+L Device:C C7
+U 1 1 60AEFE99
+P 3200 6900
+F 0 "C7" H 3315 6946 50  0000 L CNN
+F 1 "100nF" H 3315 6855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3238 6750 50  0001 C CNN
+F 3 "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf" H 3200 6900 50  0001 C CNN
+F 4 "0.8" H 3200 6900 50  0001 C CNN "Height"
+F 5 "TDK" H 3200 6900 50  0001 C CNN "Manufacturer_Name"
+F 6 "CGA3E1X7R1C105K080AC" H 3200 6900 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "810-CGA3E1X7R1C105AC" H 3200 6900 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/TDK/CGA3E1X7R1C105K080AC?qs=sGAEpiMZZMsh%252B1woXyUXj37KuThiJmV59T1luU59XfI%3D" H 3200 6900 50  0001 C CNN "Mouser Price/Stock"
+	1    3200 6900
+	1    0    0    -1  
+$EndComp
+Connection ~ 3200 6750
+$Comp
+L power:GND #PWR0146
+U 1 1 60AF100F
+P 3200 7050
+F 0 "#PWR0146" H 3200 6800 50  0001 C CNN
+F 1 "GND" H 3300 6900 50  0000 R CNN
+F 2 "" H 3200 7050 50  0001 C CNN
+F 3 "" H 3200 7050 50  0001 C CNN
+	1    3200 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0155
+U 1 1 60AF1BB3
+P 2900 5550
+F 0 "#PWR0155" H 2900 5300 50  0001 C CNN
+F 1 "GND" V 2905 5422 50  0000 R CNN
+F 2 "" H 2900 5550 50  0001 C CNN
+F 3 "" H 2900 5550 50  0001 C CNN
+	1    2900 5550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0163
+U 1 1 60AF4979
+P 2900 5450
+F 0 "#PWR0163" H 2900 5200 50  0001 C CNN
+F 1 "GND" V 2905 5322 50  0000 R CNN
+F 2 "" H 2900 5450 50  0001 C CNN
+F 3 "" H 2900 5450 50  0001 C CNN
+	1    2900 5450
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 2900 5250
+NoConn ~ 2900 5350
+Text GLabel 1600 5250 0    50   Output ~ 0
+TXD_FROM_FT232
+NoConn ~ 1600 5450
+NoConn ~ 1600 5750
+NoConn ~ 1600 6050
+NoConn ~ 1600 6150
+NoConn ~ 1600 6250
+NoConn ~ 1600 6350
+NoConn ~ 1600 6450
+NoConn ~ 1600 6550
+NoConn ~ 2900 5850
+NoConn ~ 2900 5750
+Text GLabel 1600 5650 0    50   Input ~ 0
+RXD_FROM_FT232
+$Comp
+L Device:C C8
+U 1 1 60B00ADA
+P 14000 6000
+F 0 "C8" V 13850 5950 50  0000 L CNN
+F 1 "100nF" V 13750 5900 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 14038 5850 50  0001 C CNN
+F 3 "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf" H 14000 6000 50  0001 C CNN
+F 4 "0.8" H 14000 6000 50  0001 C CNN "Height"
+F 5 "TDK" H 14000 6000 50  0001 C CNN "Manufacturer_Name"
+F 6 "CGA3E1X7R1C105K080AC" H 14000 6000 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "810-CGA3E1X7R1C105AC" H 14000 6000 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/TDK/CGA3E1X7R1C105K080AC?qs=sGAEpiMZZMsh%252B1woXyUXj37KuThiJmV59T1luU59XfI%3D" H 14000 6000 50  0001 C CNN "Mouser Price/Stock"
+	1    14000 6000
+	0    -1   -1   0   
+$EndComp
+Text GLabel 1600 5350 0    50   BiDi ~ 0
+DTR
+NoConn ~ 14900 1900
+NoConn ~ 14900 2000
+NoConn ~ 14900 2100
+NoConn ~ 14900 2200
+NoConn ~ 14900 2300
+NoConn ~ 14900 2400
+NoConn ~ 14900 2600
+NoConn ~ 14900 2700
+NoConn ~ 11900 2800
+$Comp
+L SamacSys_Parts:LL3301NF065QG S8
+U 1 1 60B719D5
+P 14350 5150
+F 0 "S8" H 14750 5415 50  0000 C CNN
+F 1 "LL3301NF065QG" H 14750 5324 50  0000 C CNN
+F 2 "LL3301NF065QG" H 15000 5250 50  0001 L CNN
+F 3 "http://spec_sheets.e-switch.com/specs/P090002.pdf" H 15000 5150 50  0001 L CNN
+F 4 "E-SWITCH - LL3301NF065QG - TACTILE SW, SPST, 0.05A, 12VDC, SOLDER" H 15000 5050 50  0001 L CNN "Description"
+F 5 "4" H 15000 4950 50  0001 L CNN "Height"
+F 6 "612-LL3301NF065QG" H 15000 4850 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/E-Switch/LL3301NF065QG?qs=QtyuwXswaQiWhwgY68YTTw%3D%3D" H 15000 4750 50  0001 L CNN "Mouser Price/Stock"
+F 8 "E-Switch" H 15000 4650 50  0001 L CNN "Manufacturer_Name"
+F 9 "LL3301NF065QG" H 15000 4550 50  0001 L CNN "Manufacturer_Part_Number"
+	1    14350 5150
+	1    0    0    -1  
+$EndComp
+NoConn ~ 15150 5150
+NoConn ~ 15150 5250
+$Comp
+L power:GND #PWR0164
+U 1 1 60B7A2BF
+P 14350 5150
+F 0 "#PWR0164" H 14350 4900 50  0001 C CNN
+F 1 "GND" V 14355 4977 50  0000 C CNN
+F 2 "" H 14350 5150 50  0001 C CNN
+F 3 "" H 14350 5150 50  0001 C CNN
+	1    14350 5150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	14350 5250 14350 6000
+Wire Wire Line
+	14350 6000 14600 6000
+Text GLabel 14800 6000 2    50   BiDi ~ 0
+MCU_RESET
+Text GLabel 11900 2100 0    50   BiDi ~ 0
+MCU_RESET
+Wire Wire Line
+	14600 6000 14600 5900
+Connection ~ 14600 6000
+Wire Wire Line
+	14600 6000 14800 6000
+$Comp
+L Device:R R9
+U 1 1 60B85C40
+P 14600 5750
+F 0 "R9" H 14450 5700 50  0000 L CNN
+F 1 "10K" H 14400 5800 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 14530 5750 50  0001 C CNN
+F 3 "https://eu.mouser.com/datasheet/2/418/4/NG_DS_1773204-3_1-1358553.pdf" H 14600 5750 50  0001 C CNN
+F 4 "0.55" H 14600 5750 50  0001 C CNN "Height"
+F 5 "TE connectivity" H 14600 5750 50  0001 C CNN "Manufacturer_Name"
+F 6 "CRGCQ1206F4K7" H 14600 5750 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "279-CRGCQ1206F4K7" H 14600 5750 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/TE-Connectivity-Holsworthy/CRGCQ1206F4K7?qs=sGAEpiMZZMvdGkrng054t7z4BkURc4Lz6Qgaa%2FMFOKfEc%252BjCojXegg%3D%3D" H 14600 5750 50  0001 C CNN "Mouser Price/Stock"
+	1    14600 5750
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+3V3 #PWR0166
+U 1 1 60B89122
+P 14600 5600
+F 0 "#PWR0166" H 14600 5450 50  0001 C CNN
+F 1 "+3V3" H 14500 5750 50  0000 L CNN
+F 2 "" H 14600 5600 50  0001 C CNN
+F 3 "" H 14600 5600 50  0001 C CNN
+	1    14600 5600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	14150 6000 14350 6000
+Connection ~ 14350 6000
+Text GLabel 13850 6000 0    50   BiDi ~ 0
+DTR
+Wire Wire Line
+	2900 6150 3200 6150
+Wire Wire Line
+	3200 6150 3200 6350
+Connection ~ 3200 6350
+Text Notes 6250 10350 0    50   ~ 0
+Slave serial: 111\nJTAG:        101
+$Comp
+L power:+2V5 #PWR0152
+U 1 1 60BA6F54
+P 6800 9000
+F 0 "#PWR0152" H 6800 8850 50  0001 C CNN
+F 1 "+2V5" V 6800 9200 50  0000 C CNN
+F 2 "" H 6800 9000 50  0001 C CNN
+F 3 "" H 6800 9000 50  0001 C CNN
+	1    6800 9000
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+2V5 #PWR0154
+U 1 1 60BA8BC9
+P 6900 9000
+F 0 "#PWR0154" H 6900 8850 50  0001 C CNN
+F 1 "+2V5" V 6900 9200 50  0000 C CNN
+F 2 "" H 6900 9000 50  0001 C CNN
+F 3 "" H 6900 9000 50  0001 C CNN
+	1    6900 9000
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	15450 1800 15800 1800
+Wire Wire Line
+	15800 1800 15800 1600
+Text GLabel 15650 1600 1    50   Input ~ 0
+TXD_FROM_FT232
+Text GLabel 15800 1600 1    50   Output ~ 0
+RXD_FROM_FT232
+$Comp
+L Device:R R7
+U 1 1 60B1BACB
+P 15300 1700
+F 0 "R7" V 15100 1650 50  0000 L CNN
+F 1 "1K" V 15200 1650 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 15230 1700 50  0001 C CNN
+F 3 "https://eu.mouser.com/datasheet/2/418/4/NG_DS_1773204-3_1-1358553.pdf" H 15300 1700 50  0001 C CNN
+F 4 "0.55" H 15300 1700 50  0001 C CNN "Height"
+F 5 "TE connectivity" H 15300 1700 50  0001 C CNN "Manufacturer_Name"
+F 6 "CRGCQ1206F4K7" H 15300 1700 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "279-CRGCQ1206F4K7" H 15300 1700 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/TE-Connectivity-Holsworthy/CRGCQ1206F4K7?qs=sGAEpiMZZMvdGkrng054t7z4BkURc4Lz6Qgaa%2FMFOKfEc%252BjCojXegg%3D%3D" H 15300 1700 50  0001 C CNN "Mouser Price/Stock"
+	1    15300 1700
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R8
+U 1 1 60B1E0AC
+P 15300 1800
+F 0 "R8" V 15500 1750 50  0000 L CNN
+F 1 "1K" V 15400 1750 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 15230 1800 50  0001 C CNN
+F 3 "https://eu.mouser.com/datasheet/2/418/4/NG_DS_1773204-3_1-1358553.pdf" H 15300 1800 50  0001 C CNN
+F 4 "0.55" H 15300 1800 50  0001 C CNN "Height"
+F 5 "TE connectivity" H 15300 1800 50  0001 C CNN "Manufacturer_Name"
+F 6 "CRGCQ1206F4K7" H 15300 1800 50  0001 C CNN "Manufacturer_Part_Number"
+F 7 "279-CRGCQ1206F4K7" H 15300 1800 50  0001 C CNN "Mouser Part Number"
+F 8 "https://eu.mouser.com/ProductDetail/TE-Connectivity-Holsworthy/CRGCQ1206F4K7?qs=sGAEpiMZZMvdGkrng054t7z4BkURc4Lz6Qgaa%2FMFOKfEc%252BjCojXegg%3D%3D" H 15300 1800 50  0001 C CNN "Mouser Price/Stock"
+	1    15300 1800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	14900 1700 15150 1700
+Wire Wire Line
+	15150 1800 14900 1800
+Wire Wire Line
+	15450 1700 15650 1700
+Wire Wire Line
+	15650 1700 15650 1600
+$Comp
+L SamacSys_Parts:10129383-906002ALF J1
+U 1 1 60BA87F3
+P 13150 4250
+F 0 "J1" H 13600 4515 50  0000 C CNN
+F 1 "ICSP" H 13600 4424 50  0000 C CNN
+F 2 "10129383906002ALF" H 13900 4350 50  0001 L CNN
+F 3 "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10129383.pdf" H 13900 4250 50  0001 L CNN
+F 4 "EconoStik, Board to Board connector, Unshrouded Vertical Header, Surface Mount, Double Row,  Positions, 2.54 mm (0.100in) Pitch." H 13900 4150 50  0001 L CNN "Description"
+F 5 "12.09" H 13900 4050 50  0001 L CNN "Height"
+F 6 "649-1012938390602ALF" H 13900 3950 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/10129383-906002ALF?qs=0lQeLiL1qyady3TUzxmgRA%3D%3D" H 13900 3850 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Amphenol" H 13900 3750 50  0001 L CNN "Manufacturer_Name"
+F 9 "10129383-906002ALF" H 13900 3650 50  0001 L CNN "Manufacturer_Part_Number"
+	1    13150 4250
+	1    0    0    -1  
+$EndComp
+Text GLabel 14900 2800 2    50   BiDi ~ 0
+SSB
+Text GLabel 14900 2900 2    50   BiDi ~ 0
+MOSI
+Text GLabel 14900 3000 2    50   BiDi ~ 0
+MISO
+Text GLabel 14900 3100 2    50   BiDi ~ 0
+SCK
+Text GLabel 13150 4250 0    50   BiDi ~ 0
+MOSI
+Text GLabel 13150 4350 0    50   BiDi ~ 0
+MISO
+Text GLabel 13150 4450 0    50   BiDi ~ 0
+SCK
+Text GLabel 14050 4250 2    50   BiDi ~ 0
+SSB
+$Comp
+L power:GND #PWR0167
+U 1 1 60BDE163
+P 14050 4350
+F 0 "#PWR0167" H 14050 4100 50  0001 C CNN
+F 1 "GND" V 14055 4177 50  0000 C CNN
+F 2 "" H 14050 4350 50  0001 C CNN
+F 3 "" H 14050 4350 50  0001 C CNN
+	1    14050 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+3V3 #PWR0168
+U 1 1 60BDEB22
+P 14050 4450
+F 0 "#PWR0168" H 14050 4300 50  0001 C CNN
+F 1 "+3V3" V 14050 4700 50  0000 C CNN
+F 2 "" H 14050 4450 50  0001 C CNN
+F 3 "" H 14050 4450 50  0001 C CNN
+	1    14050 4450
+	0    1    1    0   
+$EndComp
+$Comp
+L SamacSys_Parts:OS102011MS2QN1 S1
+U 1 1 60BBAEAF
+P 6150 9800
+F 0 "S1" H 6550 10065 50  0000 C CNN
+F 1 "M1_SW" H 6550 9974 50  0000 C CNN
+F 2 "OS102011MA1QN1" H 6800 9900 50  0001 L CNN
+F 3 "http://www.ckswitches.com/media/1428/os.pdf" H 6800 9800 50  0001 L CNN
+F 4 "Switch Slide Miniature SPDT 0.1A 12VDC Through Hole Slide Switch SPDT On-On 0.1 A@ 12 V dc Slide" H 6800 9700 50  0001 L CNN "Description"
+F 5 "" H 6800 9600 50  0001 L CNN "Height"
+F 6 "611-OS102011MS2QN1" H 6800 9500 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/CK/OS102011MS2QN1/?qs=WtljUlYws5RvQ1hEv876nQ%3D%3D" H 6800 9400 50  0001 L CNN "Mouser Price/Stock"
+F 8 "C & K COMPONENTS" H 6800 9300 50  0001 L CNN "Manufacturer_Name"
+F 9 "OS102011MS2QN1" H 6800 9200 50  0001 L CNN "Manufacturer_Part_Number"
+	1    6150 9800
+	1    0    0    -1  
+$EndComp
+Text GLabel 6150 9900 0    50   Output ~ 0
+M1
+$Comp
+L power:GND #PWR021
+U 1 1 60BBF517
+P 6950 9800
+F 0 "#PWR021" H 6950 9550 50  0001 C CNN
+F 1 "GND" V 6955 9627 50  0000 C CNN
+F 2 "" H 6950 9800 50  0001 C CNN
+F 3 "" H 6950 9800 50  0001 C CNN
+	1    6950 9800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+2V5 #PWR020
+U 1 1 60BBFC98
+P 6150 9800
+F 0 "#PWR020" H 6150 9650 50  0001 C CNN
+F 1 "+2V5" V 6150 10000 50  0000 C CNN
+F 2 "" H 6150 9800 50  0001 C CNN
+F 3 "" H 6150 9800 50  0001 C CNN
+	1    6150 9800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SamacSys_Parts:FT232RL-TUBE IC6
+U 1 1 60BBF462
+P 1600 5250
+F 0 "IC6" H 2250 5515 50  0000 C CNN
+F 1 "FT232RL-TUBE" H 2250 5424 50  0000 C CNN
+F 2 "SOP65P780X200-28N" H 2750 5350 50  0001 L CNN
+F 3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf" H 2750 5250 50  0001 L CNN
+F 4 "USB Interface IC FT232R Single Ch Full Speed" H 2750 5150 50  0001 L CNN "Description"
+F 5 "2" H 2750 5050 50  0001 L CNN "Height"
+F 6 "895-FT232RL-TUBE" H 2750 4950 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/FTDI/FT232RL-TUBE?qs=D1%2FPMqvA100UF95YMvGN8w%3D%3D" H 2750 4850 50  0001 L CNN "Mouser Price/Stock"
+F 8 "FTDI Chip" H 2750 4750 50  0001 L CNN "Manufacturer_Name"
+F 9 "FT232RL-TUBE" H 2750 4650 50  0001 L CNN "Manufacturer_Part_Number"
+	1    1600 5250
+	1    0    0    -1  
+$EndComp
+$Comp
+L SamacSys_Parts:XC3S200-4TQG144C IC1
+U 1 1 60BCE36A
+P 6400 4100
+F 0 "IC1" H 8400 2900 50  0000 L CNN
+F 1 "XC3S200-4TQG144C" H 8100 2800 50  0000 L CNN
+F 2 "QFP50P2200X2200X160-144N" H 10350 5100 50  0001 L CNN
+F 3 "https://www.xilinx.com/support/documentation/data_sheets/ds099.pdf" H 10350 5000 50  0001 L CNN
+F 4 "Spartan-3 FPGA 200k gates TQFP144 XC3S200-4TQG144C, FPGA Spartan-3 4320 Cells, 200000 Gates, 30720bit, 4320 Blocks, 1.14  1.26 V 144-Pin TQFP" H 10350 4900 50  0001 L CNN "Description"
+F 5 "1.6" H 10350 4800 50  0001 L CNN "Height"
+F 6 "217-XC3S200-4TQG144C" H 10350 4700 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Xilinx/XC3S200-4TQG144C/?qs=rrS6PyfT74eu5Xx%252BepqSLw%3D%3D" H 10350 4600 50  0001 L CNN "Mouser Price/Stock"
+F 8 "XILINX" H 10350 4500 50  0001 L CNN "Manufacturer_Name"
+F 9 "XC3S200-4TQG144C" H 10350 4400 50  0001 L CNN "Manufacturer_Part_Number"
+	1    6400 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SamacSys_Parts:JS202011SCQN S2
+U 1 1 60BC67B4
+P 2450 9000
+F 0 "S2" H 2850 9265 50  0000 C CNN
+F 1 "SW_TDI_TDO" H 2850 9174 50  0000 C CNN
+F 2 "JS202011SCQN" H 3100 9100 50  0001 L CNN
+F 3 "http://www.ckswitches.com/media/1422/js.pdf" H 3100 9000 50  0001 L CNN
+F 4 "Sub miniature slide switches" H 3100 8900 50  0001 L CNN "Description"
+F 5 "5.5" H 3100 8800 50  0001 L CNN "Height"
+F 6 "611-JS202011SCQN" H 3100 8700 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/CK/JS202011SCQN?qs=LgMIjt8LuD95JYWxZ7NvZA%3D%3D" H 3100 8600 50  0001 L CNN "Mouser Price/Stock"
+F 8 "C & K COMPONENTS" H 3100 8500 50  0001 L CNN "Manufacturer_Name"
+F 9 "JS202011SCQN" H 3100 8400 50  0001 L CNN "Manufacturer_Part_Number"
+	1    2450 9000
+	1    0    0    -1  
+$EndComp
+Text GLabel 2450 9100 0    50   Input ~ 0
+TDI
+Text GLabel 2450 9000 0    50   Output ~ 0
+TDI_TO_FPGA
+Text GLabel 2450 9200 0    50   Output ~ 0
+TDI_TO_MCU
+Text GLabel 3250 9100 2    50   Output ~ 0
+TDO
+Text GLabel 3250 9200 2    50   Input ~ 0
+TDO_FROM_MCU
+Text GLabel 3250 9000 2    50   Input ~ 0
+TDO_FROM_FPGA
+$Comp
+L SamacSys_Parts:JS202011SCQN S3
+U 1 1 60BCAE1F
+P 2450 9700
+F 0 "S3" H 2850 9965 50  0000 C CNN
+F 1 "SW_TCK_TMS" H 2850 9874 50  0000 C CNN
+F 2 "JS202011SCQN" H 3100 9800 50  0001 L CNN
+F 3 "http://www.ckswitches.com/media/1422/js.pdf" H 3100 9700 50  0001 L CNN
+F 4 "Sub miniature slide switches" H 3100 9600 50  0001 L CNN "Description"
+F 5 "5.5" H 3100 9500 50  0001 L CNN "Height"
+F 6 "611-JS202011SCQN" H 3100 9400 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/CK/JS202011SCQN?qs=LgMIjt8LuD95JYWxZ7NvZA%3D%3D" H 3100 9300 50  0001 L CNN "Mouser Price/Stock"
+F 8 "C & K COMPONENTS" H 3100 9200 50  0001 L CNN "Manufacturer_Name"
+F 9 "JS202011SCQN" H 3100 9100 50  0001 L CNN "Manufacturer_Part_Number"
+	1    2450 9700
+	1    0    0    -1  
+$EndComp
+Text GLabel 2450 9800 0    50   Input ~ 0
+TCK
+Text GLabel 2450 9700 0    50   Output ~ 0
+TCK_TO_FPGA
+Text GLabel 2450 9900 0    50   Output ~ 0
+TCK_TO_MCU
+Text GLabel 3250 9800 2    50   Input ~ 0
+TMS
+Text GLabel 3250 9900 2    50   Output ~ 0
+TMS_TO_MCU
+Text GLabel 3250 9700 2    50   Output ~ 0
+TMS_TO_FPGA
+$Comp
+L power:VBUS #PWR?
+U 1 1 60BCE377
+P 3400 5900
+F 0 "#PWR?" H 3400 5750 50  0001 C CNN
+F 1 "VBUS" H 3400 6050 50  0000 C CNN
+F 2 "" H 3400 5900 50  0001 C CNN
+F 3 "" H 3400 5900 50  0001 C CNN
+	1    3400 5900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 6050 3400 5900
+Wire Wire Line
+	2900 6050 3400 6050
+$EndSCHEMATC

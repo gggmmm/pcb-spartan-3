@@ -1,0 +1,207 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1020
+D Cylindrical Battery Contacts, Clips, Holders & Springs AAA SMT Battery HOLDER
+F https://www.keyelco.com/product-pdf.cfm?p=934
+$ENDCMP
+#
+$CMP 3035
+D Coin Cell Battery Holders THM COIN CELL RETAINER (20MM)
+F http://www.keyelco.com/product-pdf.cfm?p=14185
+$ENDCMP
+#
+$CMP AA1608SURSK
+D Standard LEDs - SMD Red LED
+$ENDCMP
+#
+$CMP ASMB-UTF0-0D20B
+D Standard LEDs - SMD 2828 Tricolor PLCC6 LEDs
+F https://docs.broadcom.com/docs/ASMB-UTF0-0D20B-DS100
+$ENDCMP
+#
+$CMP LL3301NF065QG
+D E-SWITCH - LL3301NF065QG - TACTILE SW, SPST, 0.05A, 12VDC, SOLDER
+F http://spec_sheets.e-switch.com/specs/P090002.pdf
+$ENDCMP
+#
+$CMP OS102011MS2QS1
+D C & K COMPONENTS - OS102011MS2QS1 - SWITCH SLIDE SHORTING SPDT
+F https://www.ckswitches.com/media/1428/os.pdf
+$ENDCMP
+#
+$CMP OS103011MS8QP1
+D C & K COMPONENTS - OS103011MS8QP1 - SWITCH, SP3T, 0.1A, 12VDC, PCB, ON-ON-ON
+F https://www.ckswitches.com/media/1428/os.pdf
+$ENDCMP
+#
+$CMP PRS11S-N20F-503B1
+D Bourns Carbon Film Potentiometer PRS11 Series with a 6 mm Dia. Shaft 50k +/-20% 0.5W, Linear SMD
+F http://www.bourns.com/docs/product-datasheets/prs11s.pdf?sfvrsn=571389f1_3
+$ENDCMP
+#
+$CMP SMLMN2ECTT86C
+D 3 V Blue & Green LED SML-M1/MN  SMD, ROHM SMLMN2ECTT86C
+F https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/sml-mn2x(c)-e.pdf
+$ENDCMP
+#
+$CMP TDSG5150-N
+D LED Displays & Accessories 7-Seg Green 13 mm Common anode
+F https://componentsearchengine.com//TDSG5150-N.pdf
+$ENDCMP
+#
+$CMP ZX62-B-5PA_33_
+D USB Connectors MICRO B RECEPT RA SMT BTTM MNT
+F https://www.hirose.com/product/download/?distributor=digikey&type=specSheet&lang=en&num=ZX62-B-5PA(33)
+$ENDCMP
+#
+$CMP XC7S6-1CPGA196I
+D XILINX - XC7S6-1CPGA196I - FPGA, SPARTAN-7, 100 I/O, CSBGA-196
+K
+F https://www.xilinx.com/support/documentation/data_sheets/ds189-spartan-7-data-sheet.pdf
+$ENDCMP
+#
+$CMP XC3S200-4TQG144I
+D FPGA - Field Programmable Gate Array 200000 SYSTEM GATE 1.2 VOLT FPGA
+K
+F https://componentsearchengine.com/Datasheets/1/XC3S200-4TQG144I.pdf
+$ENDCMP
+#
+$CMP EG1218
+D Slide Switches PC MNT 3 PIN SLIDE
+K
+F https://sten-eswitch-13110800-production.s3.amazonaws.com/system/asset/product_line/data_sheet/119/EG.pdf
+$ENDCMP
+#
+$CMP 55917-1410
+D Molex MICROCLASP Series, Series Number 55917, 2mm Pitch 14 Way 2 Row Straight PCB Header, Solder Termination, 3A
+K
+F http://www.molex.com/webdocs/datasheets/pdf/en-us//0559171410_PCB_HEADERS.pdf
+$ENDCMP
+#
+$CMP ATMEGA328P-PU
+D MICROCHIP - ATMEGA328P-PU. - MICROCONTROLLER MCU, 8 BIT, ATMEGA, 20MHZ, DIP-28
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf
+$ENDCMP
+#
+$CMP 1-2199298-9
+D DIP SOCKET 28POS
+K
+F 
+$ENDCMP
+#
+$CMP 951104-8622-AR
+D Headers & Wire Housings 4P PIN STRP HDR 1R STRT PTH 10U AU
+K
+F https://componentsearchengine.com/Datasheets/1/951104-8622-AR.pdf
+$ENDCMP
+#
+$CMP OS102011MS2QN1
+D Switch Slide Miniature SPDT 0.1A 12VDC Through Hole Slide Switch SPDT On-On 0.1 A@ 12 V dc Slide
+K
+F http://www.ckswitches.com/media/1428/os.pdf
+$ENDCMP
+#
+$CMP SS-52400-002
+D USB Connectors 1.00mm USB Type C RA Recpt
+K
+F https://componentsearchengine.com/Datasheets/1/SS-52400-002.pdf
+$ENDCMP
+#
+$CMP MIC5504-3.3YM5-TR
+D MICROCHIP - MIC5504-3.3YM5-TR - LDO VOLT REG, 0.3A, 3.3V, SOT-23-5
+K
+F https://componentsearchengine.com/Datasheets/2/MIC5504-3.3YM5-TR.pdf
+$ENDCMP
+#
+$CMP BC065-10-A-L-D
+D GCT (GLOBAL CONNECTOR TECHNOLOGY) - BC065-10-A-L-D - PCB Receptacle, Top Entry, Board-to-Board, 1 mm, 1 Rows, 10 Contacts, Through Hole Mount
+K
+F https://ms.componentsearchengine.com/Datasheets/2/BC065-10-A-L-D.pdf
+$ENDCMP
+#
+$CMP 22-03-2151
+D Headers & Wire Housings 15 CKT HEADER
+K
+F https://www.molex.com/pdm_docs/sd/022032151_sd.pdf
+$ENDCMP
+#
+$CMP ECS-327MVATX-3-CN-TR
+D Crystals 32.768kHz 1.6-3.6V ESR -40C +85C
+K
+F https://componentsearchengine.com/Datasheets/1/ECS-327MVATX-3-CN-TR.pdf
+$ENDCMP
+#
+$CMP DSC6101JL3B-050.0000
+D Standard Clock Oscillators Ultra-low Power MEMS Oscillator, 2520,-40C to+105C, 20ppm
+K
+F https://componentsearchengine.com/Datasheets/1/DSC6101JL3B-050.0000.pdf
+$ENDCMP
+#
+$CMP XLH335200.000000X
+D Standard Clock Oscillators 200MHz 3.3V HCMOS 50ppm
+K
+F 
+$ENDCMP
+#
+$CMP MIC5504-2.5YM5-T5
+D LDO Voltage Regulators Single 300mA LDO with Enable Pull-Down & Auto Discharge
+K
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en580292
+$ENDCMP
+#
+$CMP MIC5504-1.2YM5-TR
+D LDO Voltage Regulators
+K
+F 
+$ENDCMP
+#
+$CMP KG_DELLS1.22-JGKH-24
+D Standard LEDs - SMD Green TOPLED E 1608
+K
+F https://dammedia.osram.info/media/resource/hires/osram-dam-5423212/KG%20DELLS1.22_EN.pdf
+$ENDCMP
+#
+$CMP ECS-7050MV-080-BN-TR
+D Standard Clock Oscillators 8.000 MHz Multi-Volt 1.6 3.6 V +/-50ppm -40 85 C 4-SMD 7.0 x 5.0 mm RoHS
+K
+F https://ecsxtal.com/store/pdf/ECS-7050MV.pdf
+$ENDCMP
+#
+$CMP CSTNE8M00G550000R0
+D Resonators 8.0000MHz 33pF SMD CHP Resntr
+K
+F https://www.murata.com/en-eu/products/productdata/8801161740318/SPEC-CSTNE8M00G550000R0.pdf?1519875007000
+$ENDCMP
+#
+$CMP FT232RL-REEL
+D USB/Serial IC UART SSOP-28 FTDI Chip FT232RL-REEL, USB Controller, 3MBd, USB 2.0, 1.8  5.25 V, 28-Pin SSOP
+K
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf
+$ENDCMP
+#
+$CMP 10129383-906002ALF
+D EconoStik, Board to Board connector, Unshrouded Vertical Header, Surface Mount, Double Row,  Positions, 2.54 mm (0.100in) Pitch.
+K
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10129383.pdf
+$ENDCMP
+#
+$CMP FT232RL-TUBE
+D USB Interface IC FT232R Single Ch Full Speed
+K
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf
+$ENDCMP
+#
+$CMP XC3S200-4TQG144C
+D Spartan-3 FPGA 200k gates TQFP144 XC3S200-4TQG144C, FPGA Spartan-3 4320 Cells, 200000 Gates, 30720bit, 4320 Blocks, 1.14  1.26 V 144-Pin TQFP
+K
+F https://www.xilinx.com/support/documentation/data_sheets/ds099.pdf
+$ENDCMP
+#
+$CMP JS202011SCQN
+D Sub miniature slide switches
+K
+F http://www.ckswitches.com/media/1422/js.pdf
+$ENDCMP
+#
+#End Doc Library
