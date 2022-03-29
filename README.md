@@ -1,4 +1,9 @@
 # pcb-spartan-3
+
+![PCB schematic](schematic.png "PCB schematic")
+
+![PCB layout](lay.png "PCB layout")
+
 First attempt at PCB design using KiCad 5.1. This design contains Xilinx Spartan-3 programmable either through JTAG or Atmega328p.
 
 Eeschema produces some warnings, due to the fact I have used different grids, which I learned later to be discouraged.
